@@ -89,7 +89,7 @@
         const tableName = $("#tableName").val().trim();
         // const datasetName = $("#datasetName").val().trim();
         $.getJSON(
-          "http://127.0.0.1:8000/upload/exists/" + tableName,
+          "http://atlan-task.herokuapp.com/upload/exists/" + tableName,
           (data) => {
             if (data) {
               $("#message").html(`${tableName} already exists`);
@@ -103,7 +103,7 @@
         middlePath = "download";
         const tableName = $("#tableName").val().trim();
         $.getJSON(
-          "http://127.0.0.1:8000/upload/exists/" + tableName,
+          "http://atlan-task.herokuapp.com/upload/exists/" + tableName,
           (data) => {
             if (!data) {
               $("#message").html(`${tableName} does not exists`);
@@ -117,7 +117,7 @@
         $("#uploadLoader").show();
         Interval = setInterval(() => {
           $.getJSON(
-            "http://127.0.0.1:8000/" + middlePath + "/progress",
+            "http://atlan-task.herokuapp.com/" + middlePath + "/progress",
             (data) => {
               data = parseInt(data);
               $("#completed").html(data.toString());
@@ -135,7 +135,7 @@
                   );
                 } else {
                   $("#message").html(
-                    `${middlePath} process completed for ${tableName}: <a href = \"http://127.0.0.1:8000/getFile/${tableName}\">Link</a>`
+                    `${middlePath} process completed for ${tableName}: <a href = \"http://atlan-task.herokuapp.com/getFile/${tableName}\">Link</a>`
                   );
                 }
                 stopLoader();
@@ -159,7 +159,7 @@
         $("#message").html(`${middlePath} process started for ${tableName}`);
         $.ajax({
           type: "POST",
-          url: "http://127.0.0.1:8000/" + middlePath + "/start",
+          url: "http://atlan-task.herokuapp.com/" + middlePath + "/start",
           data: {
             userid: tableName,
             dataset: datasetName,
@@ -178,7 +178,7 @@
           $("#message").html(`${middlePath} process paused for ${tableName}`);
           $.ajax({
             type: "POST",
-            url: "http://127.0.0.1:8000/" + middlePath + "/pause",
+            url: "http://atlan-task.herokuapp.com/" + middlePath + "/pause",
             data: {},
             success: (data) => {
               console.log(data);
@@ -189,7 +189,7 @@
           $("#message").html(`${middlePath} process resumed for ${tableName}`);
           $.ajax({
             type: "POST",
-            url: "http://127.0.0.1:8000/" + middlePath + "/resume",
+            url: "http://atlan-task.herokuapp.com/" + middlePath + "/resume",
             data: {},
             success: (data) => {
               console.log(data);
@@ -202,7 +202,7 @@
         $("#message").html(`${middlePath} process Terminated for ${tableName}`);
         $.ajax({
           type: "POST",
-          url: "http://127.0.0.1:8000/" + middlePath + "/terminate",
+          url: "http://atlan-task.herokuapp.com/" + middlePath + "/terminate",
           data: {},
           success: (data) => {
             console.log(data);
