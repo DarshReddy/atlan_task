@@ -28,7 +28,7 @@ def dataType(val, current_type):
 class UploadManager:
     """ An upload manager class which interacts with the database"""
 
-    def __init__(self, table_name, file_name="./csv data/set1.csv"):
+    def __init__(self, table_name, file_name="./csv data/set_10k.csv"):
         """Constructor to intitalize some properties.
 
         Args:
