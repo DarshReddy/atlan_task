@@ -1,0 +1,999 @@
+id,Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,Venue Longitude,Venue Category
+1,Air Force Hospital,12.96402695,77.62750003,GOLDEN ACES,12.96232706,77.63077174,Casino
+2,Air Force Hospital,12.96402695,77.62750003,inox,12.96669851,77.62422658,Multiplex
+3,Amruthahalli,13.0665131,77.5966238,Reliance Fresh,13.066264,77.596961,Convenience Store
+4,Amruthahalli,13.0665131,77.5966238,Bata,13.06569915,77.59940189,Shoe Store
+5,Amruthahalli,13.0665131,77.5966238,Print Central,13.0629025,77.59633549,Print Shop
+6,Amruthahalli,13.0665131,77.5966238,ದೊನ್ನೇ ಬಿರಿಯಾನಿ ಅಂಗಡಿ (Donne Biriyani Angadi),13.06677014,77.59286284,Indian Restaurant
+7,Anandnagar Bangalore,13.033377,77.5895227,Moto Store & Café,13.03208645,77.59002006,Motorcycle Shop
+8,Anandnagar Bangalore,13.033377,77.5895227,Saaga - The Royal Senate Hotel,13.03649775,77.58952451,Indian Restaurant
+9,Anandnagar Bangalore,13.033377,77.5895227,Pharmacy Baptist Hospital,13.03552809,77.58955331,Pharmacy
+10,Anandnagar Bangalore,13.033377,77.5895227,International Flower Auction Bangalore Limited,13.0356284,77.58930148,Garden Center
+11,Anandnagar Bangalore,13.033377,77.5895227,The Royal Senate,13.03651797,77.58946572,Hotel
+12,Arabic College,13.0300127,77.6208724,Kamal da Dhaba,13.02706294,77.62254828,Indian Restaurant
+13,Attur,13.1074705,77.5656853,sri krishna juice and chat center,13.10857582,77.56584167,Juice Bar
+14,Austin Town,12.9612736,77.6152935,Little Chef,12.96442844,77.61368011,Italian Restaurant
+15,Austin Town,12.9612736,77.6152935,Chaitanya Delicacy,12.96373911,77.61457856,Indian Restaurant
+16,Banaswadi,13.0141618,77.6518539,Tamarind,13.01267607,77.64771142,Indian Restaurant
+17,Banaswadi,13.0141618,77.6518539,De Grand,13.01642132,77.65059662,BBQ Joint
+18,Banaswadi,13.0141618,77.6518539,Saffron,13.01276296,77.64783651,Vegetarian / Vegan Restaurant
+19,Banaswadi,13.0141618,77.6518539,Leela_s Kitchen,13.01374619,77.6487648,Kerala Restaurant
+20,Banaswadi,13.0141618,77.6518539,Trust Chemists & Druggists,13.012673,77.647674,Pharmacy
+21,Banaswadi,13.0141618,77.6518539,Idli-Yo-Idli,13.01484471,77.65631097,Vegetarian / Vegan Restaurant
+22,Bangalore International Airport,13.2042586,77.70656742,PURO GUSTO,13.2009462,77.70896977,Coffee Shop
+23,Bangalore International Airport,13.2042586,77.70656742,KFC,13.20109151,77.70970955,Fast Food Restaurant
+24,Bangalore International Airport,13.2042586,77.70656742,Altavita,13.20100058,77.70889636,Italian Restaurant
+25,Bangalore International Airport,13.2042586,77.70656742,Malgudi Tiffin Center,13.20103942,77.70880925,Vegetarian / Vegan Restaurant
+26,Bangalore International Airport,13.2042586,77.70656742,Grab & Fly,13.2011368,77.70945148,Indian Restaurant
+27,Bangalore International Airport,13.2042586,77.70656742,Shoppers Stop,13.20105948,77.70894279,Clothing Store
+28,Bangalore International Airport,13.2042586,77.70656742,Jet Airways Lounge,13.20124727,77.70929496,Airport Lounge
+29,Bangalore International Airport,13.2042586,77.70656742,Espressamente illy,13.20107587,77.70956564,Café
+30,Bangalore International Airport,13.2042586,77.70656742,Smoking Chamber,13.20088339,77.70942912,Smoke Shop
+31,Bangalore International Airport,13.2042586,77.70656742,Plaza Premium Lounge,13.20054233,77.70906018,Airport Lounge
+32,"Bellandur,Ashoknagar Bangalore,Shanthinagar,Bangalore City",12.9791198,77.5912997,Vidhana Soudha,12.97902709,77.59188123,Capitol Building
+33,"Bellandur,Ashoknagar Bangalore,Shanthinagar,Bangalore City",12.9791198,77.5912997,Cubbon Park,12.97704218,77.59527683,Park
+34,"Bellandur,Ashoknagar Bangalore,Shanthinagar,Bangalore City",12.9791198,77.5912997,Hotel Paraag,12.98209185,77.59425947,Hotel
+35,"Bellandur,Ashoknagar Bangalore,Shanthinagar,Bangalore City",12.9791198,77.5912997,24 Carats,12.98198012,77.59456377,Hotel
+36,Benson Town,12.997803,77.6041749,Cafe Coffee Day,12.99511654,77.60302846,Café
+37,Benson Town,12.997803,77.6041749,The French Loaf,12.99934495,77.6000393,Bakery
+38,Benson Town,12.997803,77.6041749,Khan Saheb,12.99588037,77.60677658,Pakistani Restaurant
+39,Benson Town,12.997803,77.6041749,Anand Sweets,12.99607379,77.60818655,Candy Store
+40,Bhattarahalli,13.0258004,77.714279,Evoma,13.02253161,77.71213414,Hotel
+41,Bhattarahalli,13.0258004,77.714279,Newzealand Natural Ice Cream,13.02668138,77.71087694,Ice Cream Shop
+42,Bhattarahalli,13.0258004,77.714279,Elephant & Coffee The Coffee Shop,13.02258611,77.71216262,Café
+43,Byatarayanapura,13.06207355,77.59639164,Sanjay Dhaba,13.05861151,77.59376661,Indian Restaurant
+44,Byatarayanapura,13.06207355,77.59639164,Swathi Gardenia,13.05910807,77.59318444,Indian Restaurant
+45,Byatarayanapura,13.06207355,77.59639164,Chawlas 2,13.06270779,77.59290576,Indian Restaurant
+46,Byatarayanapura,13.06207355,77.59639164,Bhagini Express,13.06283992,77.59275419,Indian Restaurant
+47,Byatarayanapura,13.06207355,77.59639164,Spiritz & Wine,13.06271732,77.59268582,Wine Shop
+48,Byatarayanapura,13.06207355,77.59639164,Burger Man,13.06280987,77.59254155,Burger Joint
+49,Byatarayanapura,13.06207355,77.59639164,The Ever Green Florist,13.0629601,77.59222258,Flower Shop
+50,Byatarayanapura,13.06207355,77.59639164,Health and Glow,13.06297768,77.59198196,Cosmetics Shop
+51,Byatarayanapura,13.06207355,77.59639164,Nandhana Palace,13.059548,77.59264,Andhra Restaurant
+52,C.V.Raman Nagar,12.9856478,77.6649767,Pizza Hut,12.98567908,77.66813334,Pizza Place
+53,C.V.Raman Nagar,12.9856478,77.6649767,New Tandoor,12.98528816,77.66764357,Indian Restaurant
+54,C.V.Raman Nagar,12.9856478,77.6649767,Cafe Coffee Day,12.98594869,77.66879203,Café
+55,C.V.Raman Nagar,12.9856478,77.6649767,DRDO Complex Fountain Square,12.98516417,77.66326408,Park
+56,C.V.Raman Nagar,12.9856478,77.6649767,Reliance Fresh,12.98533728,77.6675182,Department Store
+57,C.V.Raman Nagar,12.9856478,77.6649767,M. K. Retail,12.98543785,77.66776964,Shop & Service
+58,C.V.Raman Nagar,12.9856478,77.6649767,Mast Kalandar,12.98593352,77.66878762,Indian Restaurant
+59,C.V.Raman Nagar,12.9856478,77.6649767,Pizza Hut Delivery (PHD),12.98554117,77.66831788,Pizza Place
+60,C.V.Raman Nagar,12.9856478,77.6649767,Andhra Mess,12.98154894,77.66609361,Indian Restaurant
+61,CMP Centre & School,12.95825135,77.6091222,Football Ground @ Corps of Military Police Center & School,12.95795094,77.60920286,Soccer Field
+62,CMP Centre & School,12.95825135,77.6091222,Hercules Sports International,12.95668824,77.60576944,Sporting Goods Shop
+63,CMP Centre & School,12.95825135,77.6091222,Cafe Y,12.95813914,77.6051259,Café
+64,CMP Centre & School,12.95825135,77.6091222,Confident Propus Hotel,12.95599781,77.6056232,Hotel
+65,Doddanekkundi,12.9763947,77.6941175,X-Torque,12.97757018,77.6934827,Motorcycle Shop
+66,Doddanekkundi,12.9763947,77.6941175,Jalsa,12.97768337,77.69547553,Indian Restaurant
+67,Doddanekkundi,12.9763947,77.6941175,Kabab Magic,12.97870449,77.69553244,Fried Chicken Joint
+68,Doddanekkundi,12.9763947,77.6941175,Flechazo,12.97437904,77.69740013,Mediterranean Restaurant
+69,Doddanekkundi,12.9763947,77.6941175,Subway,12.9802649,77.69409455,Sandwich Place
+70,Doddanekkundi,12.9763947,77.6941175,Cafe Coffee Day,12.97954981,77.69434613,Coffee Shop
+71,Doddanekkundi,12.9763947,77.6941175,Lumiere,12.97728007,77.69522948,Restaurant
+72,Doddanekkundi,12.9763947,77.6941175,3 Kings Cafe,12.97680845,77.69285897,Café
+73,Doddanekkundi,12.9763947,77.6941175,Spice Pavilion,12.97771503,77.69293165,Diner
+74,Doddanekkundi,12.9763947,77.6941175,"cinemax, soul space arena",12.97903314,77.69329506,Movie Theater
+75,Doddanekkundi,12.9763947,77.6941175,CineMAX,12.97968653,77.69391005,Multiplex
+76,Doddanekkundi,12.9763947,77.6941175,Shopper Stop,12.97953753,77.694184,Clothing Store
+77,Doddanekkundi,12.9763947,77.6941175,SBX Sports & Music Cafe,12.97957088,77.69453016,Sports Bar
+78,Doddanekkundi,12.9763947,77.6941175,Callista Bar & Kitchen,12.98059559,77.69348811,Food
+79,Doddanekkundi,12.9763947,77.6941175,Mr. Manchurian,12.98011139,77.69403864,Chinese Restaurant
+80,Doddanekkundi,12.9763947,77.6941175,Hind Ka Chulha,12.98029135,77.69347396,Indian Restaurant
+81,Doddanekkundi,12.9763947,77.6941175,"PVR, Arena Mall",12.980578,77.694068,Multiplex
+82,Doddanekkundi,12.9763947,77.6941175,Spree Hotel,12.97987417,77.6913606,Asian Restaurant
+83,Domlur,12.9624669,77.6381958,Lavonne,12.96390892,77.6385791,Café
+84,Domlur,12.9624669,77.6381958,Barbeque Nation,12.96268433,77.64159912,BBQ Joint
+85,Domlur,12.9624669,77.6381958,Smoke House Deli,12.96558419,77.64149811,Deli / Bodega
+86,Domlur,12.9624669,77.6381958,Drops Total Spirits,12.96452694,77.64163609,Liquor Store
+87,Domlur,12.9624669,77.6381958,Domino_s Pizza,12.961,77.639,Pizza Place
+88,Domlur,12.9624669,77.6381958,Mainland China,12.96245767,77.64172707,Chinese Restaurant
+89,Domlur,12.9624669,77.6381958,Harry_s Singapore,12.9644809,77.6416911,Sports Bar
+90,Domlur,12.9624669,77.6381958,Tipsy Bull,12.96482411,77.64178306,Pub
+91,Domlur,12.9624669,77.6381958,Cafe 42,12.96369835,77.6420392,Café
+92,Domlur,12.9624669,77.6381958,Sree Nandhini Palace,12.96198965,77.6418126,Indian Restaurant
+93,Domlur,12.9624669,77.6381958,Spaghetti Kitchen,12.9645393,77.6416571,Italian Restaurant
+94,Domlur,12.9624669,77.6381958,Rajdhani,12.96383388,77.6416428,Rajasthani Restaurant
+95,Domlur,12.9624669,77.6381958,Namdhari_s Fresh,12.96615548,77.63758369,Food & Drink Shop
+96,Domlur,12.9624669,77.6381958,Vietnamese Kitchen,12.96645163,77.63733788,Vietnamese Restaurant
+97,Domlur,12.9624669,77.6381958,Lakme Studio,12.96414959,77.64015246,Cosmetics Shop
+98,Domlur,12.9624669,77.6381958,Subway,12.963812,77.64066031,Sandwich Place
+99,Domlur,12.9624669,77.6381958,Srinidhi Sagar,12.95934816,77.63838706,Indian Restaurant
+100,Domlur,12.9624669,77.6381958,Troika,12.96513995,77.64174101,Lounge
+101,Domlur,12.9624669,77.6381958,Sorbet,12.96356032,77.64221549,Food & Drink Shop
+102,Dr. Ambedkar Veedhi,12.9765523,77.5887165,Vidhana Soudha,12.97902709,77.59188123,Capitol Building
+103,Dr. Ambedkar Veedhi,12.9765523,77.5887165,Atria Hotel,12.98022696,77.58606747,Hotel
+104,Dr. Ambedkar Veedhi,12.9765523,77.5887165,Cubbon Park Library Play Ground,12.97452175,77.59023602,Dog Run
+105,Dr. Ambedkar Veedhi,12.9765523,77.5887165,1498 AD,12.98015751,77.58619004,Indian Restaurant
+106,EPIP,12.9776727,77.72220003,The Egg Factory,12.97718424,77.72484142,Breakfast Spot
+107,EPIP,12.9776727,77.72220003,Cold Stone Creamery,12.976622,77.726133,Ice Cream Shop
+108,EPIP,12.9776727,77.72220003,Suryawanshi_s,12.97717047,77.72491175,Maharashtrian Restaurant
+109,EPIP,12.9776727,77.72220003,Galito_s,12.978874,77.722368,Fried Chicken Joint
+110,EPIP,12.9776727,77.72220003,Mast Kalandar,12.97720585,77.72486778,Indian Restaurant
+111,EPIP,12.9776727,77.72220003,Accenture B6 Tower B Cafeteria,12.9744744,77.72061426,Cafeteria
+112,EPIP,12.9776727,77.72220003,Ginger Hotel,12.97706447,77.71854557,Hotel
+113,EPIP,12.9776727,77.72220003,Addict - Juice Bars,12.97934154,77.726103,Salad Place
+114,Hoodi,12.9919033,77.7162015,Srinidhi Sagar,12.99163768,77.72047995,Indian Restaurant
+115,Hoodi,12.9919033,77.7162015,Kamat Yatrinivas,12.98962417,77.71307381,Indian Restaurant
+116,Hoodi,12.9919033,77.7162015,Dakshin Veg,12.99168426,77.72040186,Breakfast Spot
+117,Hoodi,12.9919033,77.7162015,Bhakti Locator,12.99583401,77.71419525,Yoga Studio
+118,Horamavu,13.0273312,77.6601508,OMBR Park,13.02659776,77.65901222,Park
+119,Horamavu,13.0273312,77.6601508,the junction,13.025172,77.660095,Chinese Restaurant
+120,Horamavu,13.0273312,77.6601508,Altis Arena - Indoor badminton courts,13.02988243,77.66133423,Athletics & Sports
+121,Horamavu,13.0273312,77.6601508,The Other Place,13.02468728,77.65869344,Indian Restaurant
+122,Horamavu,13.0273312,77.6601508,HDFC Bank,13.023219,77.65838,ATM
+123,Indiranagar Bangalore,12.9732913,77.6404672,Vero Moda,12.97280753,77.6412246,Boutique
+124,Indiranagar Bangalore,12.9732913,77.6404672,Sri Udupi Park,12.97361695,77.64110378,Udupi Restaurant
+125,Indiranagar Bangalore,12.9732913,77.6404672,Krispy Kreme Doughnuts,12.97009433,77.64067092,Bakery
+126,Indiranagar Bangalore,12.9732913,77.6404672,Smoor Chocolates by Bliss,12.96991287,77.6412833,Chocolate Shop
+127,Indiranagar Bangalore,12.9732913,77.6404672,Mamagoto,12.97011345,77.63917317,Asian Restaurant
+128,Indiranagar Bangalore,12.9732913,77.6404672,The Black Rabbit,12.96989102,77.64125115,Pub
+129,Indiranagar Bangalore,12.9732913,77.6404672,Corner House,12.96997259,77.63745267,Ice Cream Shop
+130,Indiranagar Bangalore,12.9732913,77.6404672,Chianti Ristorante & Wine Bar,12.97016682,77.64034562,Italian Restaurant
+131,Indiranagar Bangalore,12.9732913,77.6404672,eclipse lounge,12.97369498,77.64400073,Lounge
+132,Indiranagar Bangalore,12.9732913,77.6404672,Phobidden Fruit,12.96995927,77.63961973,Vietnamese Restaurant
+133,Indiranagar Bangalore,12.9732913,77.6404672,Bite Me Cupcakes,12.9707113,77.64131051,Cupcake Shop
+134,Indiranagar Bangalore,12.9732913,77.6404672,LOFT 38,12.97116666,77.64120279,Lounge
+135,Indiranagar Bangalore,12.9732913,77.6404672,Creme & Crust,12.97495592,77.64108736,Café
+136,Indiranagar Bangalore,12.9732913,77.6404672,Stoner,12.9763627,77.64118809,Dessert Shop
+137,Indiranagar Bangalore,12.9732913,77.6404672,Cream Centre,12.9714483,77.64118125,Indian Restaurant
+138,Indiranagar Bangalore,12.9732913,77.6404672,The Humming Tree - Music Venue and Bar,12.97012459,77.6391612,Music Venue
+139,Indiranagar Bangalore,12.9732913,77.6404672,Mother Cluckers,12.97017612,77.64024335,Restaurant
+140,Indiranagar Bangalore,12.9732913,77.6404672,Take 5,12.97555393,77.64118446,Pub
+141,Indiranagar Bangalore,12.9732913,77.6404672,Bliss Chocolate Lounge,12.9705698,77.64204864,Cupcake Shop
+142,Indiranagar Bangalore,12.9732913,77.6404672,Red Fork,12.97031355,77.64278881,Café
+143,Indiranagar Bangalore,12.9732913,77.6404672,1131 Bar N Kitchen,12.96991557,77.64134445,Cocktail Bar
+144,Indiranagar Bangalore,12.9732913,77.6404672,Namdhari_s Fresh,12.97020821,77.64078501,Grocery Store
+145,Indiranagar Bangalore,12.9732913,77.6404672,Loft38 Lounge,12.97127958,77.64117495,Cocktail Bar
+146,Indiranagar Bangalore,12.9732913,77.6404672,Breadworks,12.97381455,77.64198674,Bakery
+147,Indiranagar Bangalore,12.9732913,77.6404672,Doff Pub,12.97738196,77.64081675,Pub
+148,Indiranagar Bangalore,12.9732913,77.6404672,The People_s Art Cafe,12.97384026,77.64218289,Café
+149,Indiranagar Bangalore,12.9732913,77.6404672,Bricklane Grill,12.96991956,77.64109338,Restaurant
+150,Indiranagar Bangalore,12.9732913,77.6404672,Daddy_s Deli,12.97032819,77.64279601,Deli / Bodega
+151,Indiranagar Bangalore,12.9732913,77.6404672,Vapour - Pub and Brewery,12.96940004,77.64126771,Brewery
+152,Indiranagar Bangalore,12.9732913,77.6404672,Roadhouse,12.97673103,77.64090116,Gastropub
+153,Indiranagar Bangalore,12.9732913,77.6404672,Kim Lee,12.97363256,77.63591296,Chinese Restaurant
+154,Indiranagar Bangalore,12.9732913,77.6404672,B Flat,12.96885872,77.64110988,Lounge
+155,Indiranagar Bangalore,12.9732913,77.6404672,Mama Mia Gelato,12.97392451,77.64319347,Ice Cream Shop
+156,Indiranagar Bangalore,12.9732913,77.6404672,Jimi_s Beer Cafe,12.97007265,77.63848661,Pub
+157,Indiranagar Bangalore,12.9732913,77.6404672,Hangover,12.97007792,77.63839881,Lounge
+158,Indiranagar Bangalore,12.9732913,77.6404672,The Only Place,12.97384518,77.64455249,Steakhouse
+159,Indiranagar Bangalore,12.9732913,77.6404672,High Note Bar and Dining,12.96888314,77.64116267,Diner
+160,Indiranagar Bangalore,12.9732913,77.6404672,Chili_s Grill & Bar,12.96923672,77.64141442,Tex-Mex Restaurant
+161,Indiranagar Bangalore,12.9732913,77.6404672,Esplanade,12.969199,77.64147271,Indian Restaurant
+162,Indiranagar Bangalore,12.9732913,77.6404672,Snap Fitness,12.97021384,77.64340306,Gym
+163,Indiranagar Bangalore,12.9732913,77.6404672,Terrazzo,12.96933704,77.64140372,Italian Restaurant
+164,Indiranagar Bangalore,12.9732913,77.6404672,SLAM Lifestyle and Fitness Studio,12.9703287,77.64339124,Gym / Fitness Center
+165,Kadugodi,12.9985767,77.7609716,Sunil Mess,12.9991,77.7598,Restaurant
+166,Kadugodi,12.9985767,77.7609716,Kadugodi BBMP Park,12.99775887,77.76061105,Park
+167,Kadugodi,12.9985767,77.7609716,Whitefield Railway Station,12.99653363,77.76148269,Train Station
+168,Kadugodi,12.9985767,77.7609716,Whitefield Railway Colony Ground,12.99630029,77.76166708,Playground
+169,Kadugodi,12.9985767,77.7609716,White Field railway station,12.99636334,77.75987909,Platform
+170,Kadugodi,12.9985767,77.7609716,Pragathi Gym,12.99668598,77.76340485,Gym
+171,Kadugodi,12.9985767,77.7609716,BMTC Bus Station - KADUGODI,12.99559108,77.75838721,Bus Station
+172,Kadugodi,12.9985767,77.7609716,Sai Ramesh Hall,12.99626329,77.75742614,Music Venue
+173,Kadugodi,12.9985767,77.7609716,Sri Sai Krishna Kerala Hotel,12.99821472,77.75640869,Indian Restaurant
+174,Kothanur,13.0613601,77.6493895,Hill Station Cafe,13.06494032,77.64663224,Coffee Shop
+175,Kothanur,13.0613601,77.6493895,Domino_s Pizza,13.064,77.65,Pizza Place
+176,Kothanur,13.0613601,77.6493895,Subway,13.06467959,77.65179079,Sandwich Place
+177,Kothanur,13.0613601,77.6493895,Uttam Sagar Gardenia,13.059518,77.64852,Restaurant
+178,Kothanur,13.0613601,77.6493895,The Big Market,13.06382606,77.65087472,Grocery Store
+179,Kothanur,13.0613601,77.6493895,Just Bake,13.06388564,77.65104532,Bakery
+180,Kothanur,13.0613601,77.6493895,Table King,13.063723,77.651434,Mediterranean Restaurant
+181,Kothanur,13.0613601,77.6493895,The King_s Table,13.063918,77.65157,Italian Restaurant
+182,Kothanur,13.0613601,77.6493895,Koel_s Pizza,13.064777,77.651808,Pizza Place
+183,Kothanur,13.0613601,77.6493895,Cubo Fitness,13.06492292,77.65194118,Gym / Fitness Center
+184,Kothanur,13.0613601,77.6493895,Lulu Value Mart,13.06500977,77.65189237,Convenience Store
+185,"Krishnarajapuram R S,Krishnarajapuram",13.0005089,77.6753945,McDonald_s,12.99949901,77.67549792,Fast Food Restaurant
+186,"Krishnarajapuram R S,Krishnarajapuram",13.0005089,77.6753945,MMA Kabab Centre,12.9994563,77.67368317,Indian Restaurant
+187,"Krishnarajapuram R S,Krishnarajapuram",13.0005089,77.6753945,Pushpanjali Theater,12.99801521,77.6752441,Movie Theater
+188,"Krishnarajapuram R S,Krishnarajapuram",13.0005089,77.6753945,Krishnarajapuram (KR Puram) Railway Station,13.00031874,77.67582783,Train Station
+189,Kundalahalli,12.9684441,77.7187843,"Lemon Tree Hotel, Whitefield, Bengaluru",12.97239038,77.71787537,Hotel
+190,Kundalahalli,12.9684441,77.7187843,Kesar,12.96481984,77.71740609,Dessert Shop
+191,Kundalahalli,12.9684441,77.7187843,Chef Bakers,12.967194,77.71659534,Bakery
+192,Kundalahalli,12.9684441,77.7187843,Taco Bell,12.96590607,77.71824441,Fast Food Restaurant
+193,Kundalahalli,12.9684441,77.7187843,McDonald_s,12.96715649,77.71677173,Fast Food Restaurant
+194,Kundalahalli,12.9684441,77.7187843,MK Retail,12.97067055,77.7189374,Department Store
+195,Kundalahalli,12.9684441,77.7187843,SBX Sports Bar,12.9657908,77.71809499,Sports Bar
+196,Kundalahalli,12.9684441,77.7187843,Talwalkars Gym,12.96561743,77.718289,Gym
+197,Kundalahalli,12.9684441,77.7187843,Double Roti,12.967459,77.714903,Gastropub
+198,Lingarajapuram,13.0117678,77.6278288,Giselle,13.014234,77.628815,Café
+199,Lingarajapuram,13.0117678,77.6278288,Smally_s RestoCafe,13.01534955,77.63011724,Burger Joint
+200,Lingarajapuram,13.0117678,77.6278288,Honest Bakery,13.01536841,77.63049204,Bakery
+201,Lingarajapuram,13.0117678,77.6278288,Mahadii_s,13.015408,77.63045,Andhra Restaurant
+202,Mahadevapura,12.9934976,77.6924156,VR Bengaluru,12.99609462,77.69539315,Shopping Mall
+203,Mahadevapura,12.9934976,77.6924156,PVR IMAX VR Bangalore,12.9961943,77.69536253,Movie Theater
+204,Mahadevapura,12.9934976,77.6924156,Toscano,12.99594191,77.69579542,Italian Restaurant
+205,Mahadevapura,12.9934976,77.6924156,The Irish House,12.99616237,77.69503542,Bar
+206,Mahadevapura,12.9934976,77.6924156,Starbucks,12.99612197,77.69537688,Coffee Shop
+207,Mahadevapura,12.9934976,77.6924156,Starbucks,12.99578338,77.69626737,Coffee Shop
+208,Mahadevapura,12.9934976,77.6924156,Lifestyle,12.995831,77.696292,Clothing Store
+209,Mahadevapura,12.9934976,77.6924156,PVR  PREMIER VR,12.9961223,77.69542359,Multiplex
+210,Mahadevapura,12.9934976,77.6924156,Nasi and Mee,12.99628582,77.69520139,Noodle House
+211,Mahadevapura,12.9934976,77.6924156,Happy Land Supermarket,12.99155797,77.69092451,Convenience Store
+212,Mahadevapura,12.9934976,77.6924156,Café Noir,12.99612616,77.69525986,French Restaurant
+213,Mahadevapura,12.9934976,77.6924156,"PVR Gold, VR Bengaluru",12.993301,77.695419,Movie Theater
+214,Mahadevapura,12.9934976,77.6924156,Pheonix Market City - Barley,12.99617839,77.69368083,American Restaurant
+215,Mahadevapura,12.9934976,77.6924156,Taco Bell,12.993259,77.695655,Fast Food Restaurant
+216,Mahadevapura,12.9934976,77.6924156,Hanoi,12.99570058,77.69624738,Vietnamese Restaurant
+217,Mahadevapura,12.9934976,77.6924156,Soch,12.99707578,77.69074,Women_s Store
+218,Mahatma Gandhi Road,12.9730154,77.6166123,The Oberoi,12.97345733,77.6182885,Hotel
+219,Mahatma Gandhi Road,12.9730154,77.6166123,Teppan,12.97572686,77.6168786,Japanese Restaurant
+220,Mahatma Gandhi Road,12.9730154,77.6166123,Vivanta by Taj,12.97336529,77.61995067,Hotel
+221,Mahatma Gandhi Road,12.9730154,77.6166123,Foodhall,12.97348569,77.62011699,Department Store
+222,Mahatma Gandhi Road,12.9730154,77.6166123,Yauatcha,12.97331776,77.62007164,Asian Restaurant
+223,Mahatma Gandhi Road,12.9730154,77.6166123,Häagen-Dazs,12.97301773,77.61991383,Ice Cream Shop
+224,Mahatma Gandhi Road,12.9730154,77.6166123,Starbucks,12.972374,77.618546,Coffee Shop
+225,Mahatma Gandhi Road,12.9730154,77.6166123,Marks & Spencer,12.9732723,77.62016592,Clothing Store
+226,Mahatma Gandhi Road,12.9730154,77.6166123,i-BAR,12.97382283,77.61932763,Hotel Bar
+227,Mahatma Gandhi Road,12.9730154,77.6166123,Portland Steakhouse & Cafe,12.97028195,77.61477904,Steakhouse
+228,Mahatma Gandhi Road,12.9730154,77.6166123,Benjarong,12.97561524,77.61691627,Thai Restaurant
+229,Mahatma Gandhi Road,12.9730154,77.6166123,Ice Bar,12.97355444,77.61995934,Bar
+230,Mahatma Gandhi Road,12.9730154,77.6166123,Ente Keralam,12.97556926,77.61694306,Indian Restaurant
+231,Mahatma Gandhi Road,12.9730154,77.6166123,Le Jardin,12.97356236,77.61786429,French Restaurant
+232,Mahatma Gandhi Road,12.9730154,77.6166123,Cafe Mozaic,12.97364183,77.6197624,Restaurant
+233,Mahatma Gandhi Road,12.9730154,77.6166123,Chaipatty ulsoor,12.97606052,77.61533823,Tea Room
+234,Mahatma Gandhi Road,12.9730154,77.6166123,Rim Naam,12.97358047,77.61789371,Asian Restaurant
+235,Mahatma Gandhi Road,12.9730154,77.6166123,Marzipan Cafe & Bakery,12.97477568,77.61946514,Mediterranean Restaurant
+236,Mahatma Gandhi Road,12.9730154,77.6166123,Aqua,12.97376117,77.61920358,Nightclub
+237,Mahatma Gandhi Road,12.9730154,77.6166123,Graze,12.97351086,77.61993664,Modern European Restaurant
+238,Mahatma Gandhi Road,12.9730154,77.6166123,Tandoor,12.9738192,77.61324726,Indian Restaurant
+239,Mahatma Gandhi Road,12.9730154,77.6166123,Being Human,12.97277885,77.62006993,Clothing Store
+240,Mahatma Gandhi Road,12.9730154,77.6166123,Szechwan Court,12.97351121,77.61808187,Chinese Restaurant
+241,Mahatma Gandhi Road,12.9730154,77.6166123,Chai Point,12.97321149,77.61680163,Café
+242,Mahatma Gandhi Road,12.9730154,77.6166123,Monsoon @ The Park,12.97369661,77.61963524,Diner
+243,Mahatma Gandhi Road,12.9730154,77.6166123,Pinxx,12.97491378,77.61531378,Restaurant
+244,Mahatma Gandhi Road,12.9730154,77.6166123,Domino_s Pizza,12.973,77.617,Pizza Place
+245,Mahatma Gandhi Road,12.9730154,77.6166123,Carnival-De-Goa,12.97494056,77.62009617,Seafood Restaurant
+246,Mahatma Gandhi Road,12.9730154,77.6166123,The Coffee Bean & Tea Leaf,12.97346886,77.620079,Café
+247,Mahatma Gandhi Road,12.9730154,77.6166123,The Tao Terraces,12.97337205,77.62034885,Thai Restaurant
+248,Mahatma Gandhi Road,12.9730154,77.6166123,The Bombay Store,12.97330185,77.61996923,Arts & Crafts Store
+249,Mahatma Gandhi Road,12.9730154,77.6166123,The Grill House,12.97488669,77.62008667,Steakhouse
+250,Mahatma Gandhi Road,12.9730154,77.6166123,Taj Residency,12.97319955,77.61967272,Hotel
+251,Mahatma Gandhi Road,12.9730154,77.6166123,1 MG Road,12.97347602,77.62013653,Shopping Mall
+252,Mahatma Gandhi Road,12.9730154,77.6166123,Memories Of China,12.97310091,77.61991146,Chinese Restaurant
+253,Mahatma Gandhi Road,12.9730154,77.6166123,TGI Fridays,12.97271421,77.61972867,American Restaurant
+254,Mahatma Gandhi Road,12.9730154,77.6166123,Fort Kochi,12.97364038,77.61984615,Kerala Restaurant
+255,Mahatma Gandhi Road,12.9730154,77.6166123,The Park Hotel,12.97373919,77.61976619,Hotel
+256,Mahatma Gandhi Road,12.9730154,77.6166123,Oxford book store,12.97341954,77.62011878,Bookstore
+257,Mahatma Gandhi Road,12.9730154,77.6166123,The Body Shop,12.97325526,77.61998042,Cosmetics Shop
+258,Mahatma Gandhi Road,12.9730154,77.6166123,Bangalore Airport Customs,12.97380527,77.61994126,Airport
+259,Mahatma Gandhi Road,12.9730154,77.6166123,Promod,12.97321272,77.6202098,Women_s Store
+260,Mahatma Gandhi Road,12.9730154,77.6166123,Cafe Felix,12.97390366,77.62033903,Restaurant
+261,Maruthi Sevanagar,13.0026552,77.6347376,Orion East,13.00154722,77.63261859,Shopping Mall
+262,Maruthi Sevanagar,13.0026552,77.6347376,Cinépolis,13.00144082,77.63261546,Multiplex
+263,Maruthi Sevanagar,13.0026552,77.6347376,McDonald_s,13.0030758,77.6316444,Fast Food Restaurant
+264,Maruthi Sevanagar,13.0026552,77.6347376,Reliance Fresh,13.00145763,77.63071169,Department Store
+265,Medimallasandra,12.9523031,77.830108,Kalkunte,12.94861373,77.83078423,Scenic Lookout
+266,Museum Road,12.9717765,77.6043796,The Only Place,12.97330475,77.60351382,Steakhouse
+267,Museum Road,12.9717765,77.6043796,Truffles - Ice & Spice,12.97180162,77.6010306,Burger Joint
+268,Museum Road,12.9717765,77.6043796,Blossom Book House,12.97504196,77.60481253,Bookstore
+269,Museum Road,12.9717765,77.6043796,Natural Ice Cream,12.97137763,77.60098865,Ice Cream Shop
+270,Museum Road,12.9717765,77.6043796,Brik Oven,12.9747567,77.60544131,Pizza Place
+271,Museum Road,12.9717765,77.6043796,The 13th Floor,12.97536363,77.60499494,Lounge
+272,Museum Road,12.9717765,77.6043796,MTR 1924,12.97219598,77.60099038,Indian Restaurant
+273,Museum Road,12.9717765,77.6043796,Fitness First,12.97115306,77.60700961,Gym
+274,Museum Road,12.9717765,77.6043796,Oh Calcutta,12.97140529,77.60093539,Indian Restaurant
+275,Museum Road,12.9717765,77.6043796,Matteo,12.97449616,77.60711549,Café
+276,Museum Road,12.9717765,77.6043796,Starbucks,12.97443561,77.60730765,Coffee Shop
+277,Museum Road,12.9717765,77.6043796,Samsung Opera House,12.97230973,77.60744387,Electronics Store
+278,Museum Road,12.9717765,77.6043796,M.G Road Boulevard,12.97577052,77.60397895,Plaza
+279,Museum Road,12.9717765,77.6043796,The Entertainment Store,12.97541255,77.60304487,Toy / Game Store
+280,Museum Road,12.9717765,77.6043796,Smally_s RestoCafe,12.97441199,77.60723447,Café
+281,Museum Road,12.9717765,77.6043796,Big Straw,12.97272937,77.60120119,Bubble Tea Shop
+282,Museum Road,12.9717765,77.6043796,Church Street Social,12.97555907,77.60257886,Pub
+283,Museum Road,12.9717765,77.6043796,Dunkin_,12.97202603,77.60691105,Donut Shop
+284,Museum Road,12.9717765,77.6043796,Corner House,12.97297902,77.59997124,Ice Cream Shop
+285,Museum Road,12.9717765,77.6043796,Khan Saheb,12.97158679,77.60685626,Fast Food Restaurant
+286,Museum Road,12.9717765,77.6043796,Hysteria,12.97484337,77.60542606,Music Store
+287,Museum Road,12.9717765,77.6043796,The Egg Factory,12.97221689,77.60097775,Breakfast Spot
+288,Museum Road,12.9717765,77.6043796,Hotel Ballal Residency,12.97147626,77.60813639,Hotel
+289,Museum Road,12.9717765,77.6043796,On The Edge,12.97542366,77.60504539,Lounge
+290,Museum Road,12.9717765,77.6043796,Coast 2 Coast,12.97530456,77.60562461,Indian Restaurant
+291,Museum Road,12.9717765,77.6043796,MTR Restaurant,12.97215854,77.60103861,South Indian Restaurant
+292,Museum Road,12.9717765,77.6043796,Konark,12.96901172,77.60215558,Indian Restaurant
+293,Museum Road,12.9717765,77.6043796,Bangalore Brew Works,12.96836485,77.60166199,Brewery
+294,Museum Road,12.9717765,77.6043796,Green Theory,12.96831482,77.60281148,Vegetarian / Vegan Restaurant
+295,Museum Road,12.9717765,77.6043796,Communiti,12.97261793,77.60822458,Brewery
+296,Museum Road,12.9717765,77.6043796,Brigade Road,12.97386709,77.60695401,Road
+297,Museum Road,12.9717765,77.6043796,Karavalli,12.97193664,77.60886915,Indian Restaurant
+298,Museum Road,12.9717765,77.6043796,Lakeview Milk Bar,12.9760312,77.60379126,Ice Cream Shop
+299,Museum Road,12.9717765,77.6043796,Sapna Book House,12.97308963,77.60830705,Bookstore
+300,Museum Road,12.9717765,77.6043796,Cafe Coffee Day Crossword,12.97273475,77.60793686,Coffee Shop
+301,Museum Road,12.9717765,77.6043796,Sphyre,12.97241846,77.60844023,Hotel Bar
+302,Museum Road,12.9717765,77.6043796,Downtown Pub,12.97271701,77.608541,Pub
+303,Museum Road,12.9717765,77.6043796,Grand Magrath Hotel,12.97024782,77.60783829,Restaurant
+304,Museum Road,12.9717765,77.6043796,KFC,12.9745931,77.60779822,Fried Chicken Joint
+305,Museum Road,12.9717765,77.6043796,The Gateway Hotel Bangalore,12.97267528,77.60855842,Hotel
+306,Museum Road,12.9717765,77.6043796,The Pub World,12.97287672,77.60884519,Pub
+307,Museum Road,12.9717765,77.6043796,Puma Store,12.97456745,77.60780733,Shoe Store
+308,NAL,12.9667224,77.65378606,Laddoos,12.96860863,77.649644,Indian Restaurant
+309,NAL,12.9667224,77.65378606,Delicacy,12.96789714,77.65297959,Chinese Restaurant
+310,NAL,12.9667224,77.65378606,Cafe Coffee Day,12.96772248,77.65435473,Café
+311,NAL,12.9667224,77.65378606,Dakshin Cafe,12.96804815,77.65224643,Indian Restaurant
+312,NAL,12.9667224,77.65378606,The Biryanis,12.96778593,77.65437036,Indian Restaurant
+313,NAL,12.9667224,77.65378606,Malabar Hotel,12.96776086,77.65439878,Indian Restaurant
+314,NAL,12.9667224,77.65378606,Kaayal,12.96825858,77.65053588,Indian Restaurant
+315,NAL,12.9667224,77.65378606,Bob_s,12.96948102,77.65183871,Indian Restaurant
+316,NAL,12.9667224,77.65378606,Wang_s Chinese Restaurant,12.96781763,77.65449892,Chinese Restaurant
+317,NAL,12.9667224,77.65378606,Amul Ice Cream,12.96782859,77.65363762,Dessert Shop
+318,NAL,12.9667224,77.65378606,Bekal,12.9677642,77.65418396,Kerala Restaurant
+319,NAL,12.9667224,77.65378606,Swaad Punjabi Dhaba,12.96954732,77.6549287,Indian Restaurant
+320,NAL,12.9667224,77.65378606,Sagar Foods bakery,12.967252,77.657902,Bakery
+321,NAL,12.9667224,77.65378606,Bata,12.96615694,77.64943731,Shoe Store
+322,NAL,12.9667224,77.65378606,Mast Kalandar,12.96861422,77.64961605,Indian Restaurant
+323,New Thippasandra,12.9736956,77.6536931,Plantain Leaf,12.97189333,77.65479791,Indian Restaurant
+324,New Thippasandra,12.9736956,77.6536931,Chai Point,12.97473021,77.65569018,Food Truck
+325,New Thippasandra,12.9736956,77.6536931,Sai Bhavan,12.97217414,77.65277818,Indian Restaurant
+326,New Thippasandra,12.9736956,77.6536931,Kanti Sweets,12.97599607,77.6536544,Fast Food Restaurant
+327,New Thippasandra,12.9736956,77.6536931,Reliance Fresh,12.97469156,77.65143402,Farmers Market
+328,New Thippasandra,12.9736956,77.6536931,More,12.971678,77.65558839,Grocery Store
+329,New Thippasandra,12.9736956,77.6536931,Swaad Punjabi Dhaba,12.96954732,77.6549287,Indian Restaurant
+330,New Thippasandra,12.9736956,77.6536931,Sir.M.Vishwesharya Park,12.97043795,77.65069574,Park
+331,New Thippasandra,12.9736956,77.6536931,Moti Mess,12.97207678,77.64945969,Indian Restaurant
+332,Panathur,12.9351457,77.7047541,All Season,12.93703042,77.70260378,Department Store
+333,Panathur,12.9351457,77.7047541,Belandur Road Railway Station,12.9367925,77.70722662,Train Station
+334,Panathur,12.9351457,77.7047541,Bellandur Road,12.93714905,77.70718384,Train Station
+335,Panathur,12.9351457,77.7047541,Greenfield Badmintion,12.931811,77.70341,Sports Club
+336,R T Nagar,13.0251833,77.5920609,Huliyappa Donne Biryani,13.02680416,77.59075645,Indian Restaurant
+337,R T Nagar,13.0251833,77.5920609,Pizza Hut,13.02323352,77.59273225,Pizza Place
+338,R T Nagar,13.0251833,77.5920609,Kabab Manor,13.02721404,77.59344248,Snack Place
+339,R T Nagar,13.0251833,77.5920609,Sichi Sagar,13.02666198,77.59098417,Vegetarian / Vegan Restaurant
+340,R T Nagar,13.0251833,77.5920609,Baskin Robbins,13.02105308,77.59239078,Ice Cream Shop
+341,R T Nagar,13.0251833,77.5920609,Sreeraj Lassi Bar,13.02079642,77.59256543,Juice Bar
+342,R T Nagar,13.0251833,77.5920609,New Shanthi Sagar,13.02295841,77.59260015,Indian Restaurant
+343,R T Nagar,13.0251833,77.5920609,Calcutta Victoria Chat House,13.0262849,77.59449228,Fast Food Restaurant
+344,R T Nagar,13.0251833,77.5920609,Gokul Veg,13.02338846,77.59284932,Indian Restaurant
+345,Rajanakunte,13.1691901,77.5639442,Rajankunte Railway Station,13.1730597,77.56517996,Train Station
+346,Rajanakunte,13.1691901,77.5639442,Angsana Spa,13.17159986,77.56007517,Spa
+347,Ramamurthy Nagar,13.0120218,77.6777817,SJS Catering,13.01135253,77.67597914,Restaurant
+348,Ramamurthy Nagar,13.0120218,77.6777817,Karnataka Pani Puri Stall,13.01131773,77.67970843,Snack Place
+349,Ramamurthy Nagar,13.0120218,77.6777817,Fashion Tailors,13.01151085,77.68030548,Men_s Store
+350,Ramamurthy Nagar,13.0120218,77.6777817,Bata,13.01133212,77.67493874,Shoe Store
+351,Ramamurthy Nagar,13.0120218,77.6777817,Apna Bazaar,13.00936638,77.67527103,Department Store
+352,Ramamurthy Nagar,13.0120218,77.6777817,Lakshmi Theatre,13.01026812,77.67416708,Indie Movie Theater
+353,Richmond Town,12.9626925,77.6041603,Plan B,12.96211048,77.60147034,Pub
+354,Richmond Town,12.9626925,77.6041603,Siddique Kabab Centre,12.96301929,77.60580637,BBQ Joint
+355,Richmond Town,12.9626925,77.6041603,Khazana,12.96426352,77.60549527,Indian Restaurant
+356,Richmond Town,12.9626925,77.6041603,Khazana Food Paradise,12.96427551,77.60555941,Indian Restaurant
+357,Richmond Town,12.9626925,77.6041603,Gold_s Gym,12.96643812,77.60366006,Gym
+358,Richmond Town,12.9626925,77.6041603,Toms Hotel,12.9649379,77.60685041,Hotel
+359,Richmond Town,12.9626925,77.6041603,Makkah,12.96398033,77.60663815,Tea Room
+360,Richmond Town,12.9626925,77.6041603,Fanoos,12.964384,77.60672836,Middle Eastern Restaurant
+361,Richmond Town,12.9626925,77.6041603,The Elanza Hotel,12.96525803,77.60216832,Hotel
+362,Richmond Town,12.9626925,77.6041603,Hockey Club,12.96175289,77.60112926,Hockey Arena
+363,Richmond Town,12.9626925,77.6041603,Koshys Bakery,12.96553661,77.60465826,Bakery
+364,Richmond Town,12.9626925,77.6041603,Nature_s Basket,12.96222286,77.60155693,Health Food Store
+365,Richmond Town,12.9626925,77.6041603,Beijing Bites,12.96573946,77.60145796,Chinese Restaurant
+366,Richmond Town,12.9626925,77.6041603,Cafe Coffee Day,12.96542585,77.60326835,Coffee Shop
+367,Richmond Town,12.9626925,77.6041603,Richmond Park,12.96326915,77.60129876,Park
+368,Richmond Town,12.9626925,77.6041603,Domino_s Pizza,12.96204338,77.6013535,Pizza Place
+369,Richmond Town,12.9626925,77.6041603,In  Wok,12.96523584,77.60275917,Chinese Restaurant
+370,Richmond Town,12.9626925,77.6041603,Fatima Bakery & Supermarket,12.96493729,77.6068375,Bakery
+371,Richmond Town,12.9626925,77.6041603,Cafe Coffee Day,12.96536605,77.60117753,Coffee Shop
+372,Richmond Town,12.9626925,77.6041603,Just Juice,12.96144197,77.60152258,Juice Bar
+373,Richmond Town,12.9626925,77.6041603,Johnson Market,12.96404488,77.60660313,Market
+374,Richmond Town,12.9626925,77.6041603,Sandhya Sagar,12.96033414,77.60157694,Indian Restaurant
+375,Richmond Town,12.9626925,77.6041603,Hyderabad House,12.96527436,77.60109467,Indian Restaurant
+376,Sadashivanagar,13.0077079,77.5795893,Affinity Gym,13.00935834,77.57967814,Gym
+377,Sadashivanagar,13.0077079,77.5795893,Starbucks,13.00907457,77.58042318,Coffee Shop
+378,Sadashivanagar,13.0077079,77.5795893,Pulimunchi,13.00669776,77.5789682,Seafood Restaurant
+379,Sadashivanagar,13.0077079,77.5795893,Godrej Nature_s Basket,13.00546571,77.58071527,Department Store
+380,Sadashivanagar,13.0077079,77.5795893,Café Coffee Day - Lounge,13.00753645,77.5795528,Café
+381,Sadashivanagar,13.0077079,77.5795893,Sadashivnagar Bhashyam Circle,13.00598146,77.57868529,Plaza
+382,Sadashivanagar,13.0077079,77.5795893,Angadi Galleria,13.00568943,77.58002846,Women_s Store
+383,Sadashivanagar,13.0077079,77.5795893,Sattvam,13.00550404,77.58070563,Indian Restaurant
+384,Sadashivanagar,13.0077079,77.5795893,Chung Wah,13.00370128,77.57866303,Chinese Restaurant
+385,Sadashivanagar,13.0077079,77.5795893,Polar Bear,13.00761786,77.57792534,Ice Cream Shop
+386,Sadashivanagar,13.0077079,77.5795893,Cafe Coffee Day,13.00518093,77.58090047,Coffee Shop
+387,Sadashivanagar,13.0077079,77.5795893,Starbucks,13.00907774,77.580398,Coffee Shop
+388,Sadashivanagar,13.0077079,77.5795893,Namdhari_s Fresh,13.00341637,77.57842729,Department Store
+389,Sadashivanagar,13.0077079,77.5795893,Aubree,13.00437355,77.57844464,Dessert Shop
+390,Sadashivanagar,13.0077079,77.5795893,Chowdiah Memorial Hall,13.00650186,77.57561257,Performing Arts Venue
+391,Sadashivanagar,13.0077079,77.5795893,Barista Lavazza,13.00909122,77.58055819,Café
+392,Sadashivanagar,13.0077079,77.5795893,Swadhista Hotel,13.00554853,77.57880867,Indian Restaurant
+393,Sadashivanagar,13.0077079,77.5795893,Good Food Store,13.00374836,77.57829913,Gourmet Shop
+394,Sadashivanagar,13.0077079,77.5795893,Mint Masala,13.0068201,77.57902423,Indian Restaurant
+395,Sadashivanagar,13.0077079,77.5795893,Affinity International Salon,13.00939027,77.57972145,Spa
+396,Sadashivanagar,13.0077079,77.5795893,Foodworld,13.01054436,77.57876924,Department Store
+397,Sadashivanagar,13.0077079,77.5795893,The Orchard,13.00480312,77.58116356,Indian Restaurant
+398,Singanayakanahalli,13.1478621,77.5693207,Bhagini Pavilion,13.14513969,77.57004945,Indian Restaurant
+399,Singanayakanahalli,13.1478621,77.5693207,CCD @ SAI Leela,13.14506472,77.56775466,Café
+400,Venkateshapura,13.0158279,77.6176968,M K Motors,13.01654816,77.61793518,Motorcycle Shop
+401,Venkateshapura,13.0158279,77.6176968,kennal,13.013537,77.616883,Pet Store
+402,Venkateshapura,13.0158279,77.6176968,Axis Bank ATM,13.01144981,77.61815643,ATM
+403,Vidhana Soudha,12.9797454,77.59061673,Vidhana Soudha,12.97902709,77.59188123,Capitol Building
+404,Vidhana Soudha,12.9797454,77.59061673,Atria Hotel,12.98022696,77.58606747,Hotel
+405,Vidhana Soudha,12.9797454,77.59061673,Fruit Salad Gaadi,12.97823357,77.59198196,Salad Place
+406,Vidhana Soudha,12.9797454,77.59061673,Wine Board,12.97563571,77.59005785,Vineyard
+407,Vimanapura,12.96218,77.6635462,HAL Market,12.96084858,77.66619845,Farmers Market
+408,Vimanapura,12.96218,77.6635462,In an Uber (Bangalore),12.95924185,77.66235653,Moving Target
+409,Vimanapura,12.96218,77.6635462,Cha Bar,12.95876538,77.66271444,Café
+410,Vimanapura,12.96218,77.6635462,HAL Main Gate,12.95862668,77.66507441,Bus Stop
+411,Virgonagar,13.0331172,77.734857,hotel mandarathi,13.03439903,77.73491669,Breakfast Spot
+412,Virgonagar,13.0331172,77.734857,kalyani motors,13.03184582,77.7309711,Auto Garage
+413,Viveknagar Bangalore,12.95434485,77.62269548,Kollanoor Villa,12.95462329,77.62328674,Historic Site
+414,Viveknagar Bangalore,12.95434485,77.62269548,viveknagar bus stand,12.95352586,77.62268254,Bus Station
+415,Viveknagar Bangalore,12.95434485,77.62269548,Shri Balaji Theatre,12.95665444,77.61956692,Indie Movie Theater
+416,Viveknagar Bangalore,12.95434485,77.62269548,Nandans Football Grounds,12.95385492,77.61842513,Football Stadium
+417,Viveknagar Bangalore,12.95434485,77.62269548,Malabar Food Plaza,12.95042573,77.62447273,Fast Food Restaurant
+418,Whitefield,12.9696365,77.7497448,Herbs and Spices,12.96814544,77.75086163,Eastern European Restaurant
+419,Whitefield,12.9696365,77.7497448,Golds Gym,12.97221731,77.75052891,Gym / Fitness Center
+420,Whitefield,12.9696365,77.7497448,Chef Baker_s,12.96972981,77.75130192,Bakery
+421,Whitefield,12.9696365,77.7497448,Royal Orchid Suites,12.96677439,77.75126172,Hotel
+422,Whitefield,12.9696365,77.7497448,The river side bar and kitchen,12.96729799,77.74961435,Hotel Bar
+423,Whitefield,12.9696365,77.7497448,Bangalore Mandarin,12.969631,77.75013,Chinese Restaurant
+424,Whitefield,12.9696365,77.7497448,Reliance Fresh,12.9708939,77.75004463,Department Store
+425,Whitefield,12.9696365,77.7497448,Glen_s Bakehouse,12.96749,77.749565,Bakery
+426,Whitefield,12.9696365,77.7497448,Cheenavala,12.9664351,77.74936847,Kerala Restaurant
+427,Whitefield,12.9696365,77.7497448,refresh,12.96562148,77.74923436,Café
+428,Yelahanka,13.1006982,77.5963454,Yelahanka Railway Station,13.1029225,77.59239605,Train Station
+429,Yelahanka,13.1006982,77.5963454,Sumathi Jewellers,13.09667212,77.59830516,Jewelry Store
+430,Yelahanka Satellite Town,13.08913925,77.58271659,Kanti Sweets,13.09349823,77.58242891,Dessert Shop
+431,Yelahanka Satellite Town,13.08913925,77.58271659,Apollo Pharmacy,13.089411,77.582664,Pharmacy
+432,Yelahanka Satellite Town,13.08913925,77.58271659,Gk Vale Yelahanka,13.09267,77.58495,Photography Studio
+433,Yelahanka Satellite Town,13.08913925,77.58271659,Sri Balaji Fruit Juice Centre,13.09360319,77.58242933,Juice Bar
+434,Adugodi,12.9428472,77.6104155,CCD,12.94547448,77.61092253,Café
+435,Adugodi,12.9428472,77.6104155,Kormangala Indoor Stadium,12.94326779,77.60758787,Athletics & Sports
+436,Adugodi,12.9428472,77.6104155,Moksh Gym,12.94333354,77.60750771,Gym
+437,Adugodi,12.9428472,77.6104155,audugodi,12.94254328,77.60735288,Bus Station
+438,Anjanapura,12.8580811,77.5580713,capital club resorts,12.85597891,77.55565306,Pool
+439,Banashankari III Stage,12.932708,77.5462535,Slv supreme fastfood,12.93493225,77.54731217,Breakfast Spot
+440,Banashankari III Stage,12.932708,77.5462535,Domino_s Pizza,12.931,77.543,Pizza Place
+441,Banashankari III Stage,12.932708,77.5462535,Nilgiris,12.93046563,77.54698058,Department Store
+442,Banashankari III Stage,12.932708,77.5462535,Ibaco,12.93039487,77.54697629,Ice Cream Shop
+443,Banashankari III Stage,12.932708,77.5462535,Cuppa,12.93048101,77.54362295,Coffee Shop
+444,Banashankari III Stage,12.932708,77.5462535,Just Bake,12.93042343,77.54333744,Bakery
+445,Banashankari III Stage,12.932708,77.5462535,ayodhya upachara,12.92870806,77.5456885,Udupi Restaurant
+446,Banashankari,12.9152208,77.573598,Shivaji Military Hotel,12.91791859,77.57392499,Indian Restaurant
+447,Banashankari,12.9152208,77.573598,Banashankari Metro Station,12.915297,77.573656,Metro Station
+448,Banashankari,12.9152208,77.573598,Wine Baron,12.91451453,77.57282553,Liquor Store
+449,Banashankari,12.9152208,77.573598,Total Fitness,12.91781591,77.57460942,Gym / Fitness Center
+450,Banashankari,12.9152208,77.573598,Cane Fresh,12.91789432,77.57585899,Juice Bar
+451,Bangalore Corporation Building,12.9547553,77.5923087,sakae,12.95650869,77.59238655,Japanese Restaurant
+452,Bangalore Corporation Building,12.9547553,77.5923087,Courtyard Cafe,12.9584572,77.59314703,Café
+453,Bangalore Corporation Building,12.9547553,77.5923087,Adyar Ananda Bhavan,12.95456226,77.59307073,Indian Restaurant
+454,Bangalore Corporation Building,12.9547553,77.5923087,"MTR, Bangalore",12.95533702,77.59167194,Indian Restaurant
+455,Bangalore Corporation Building,12.9547553,77.5923087,Vodafone | Store,12.95529519,77.59220839,Convenience Store
+456,Bangalore Corporation Building,12.9547553,77.5923087,Hotel Kadamba Veg,12.95496117,77.5927374,Indian Restaurant
+457,Bangalore Corporation Building,12.9547553,77.5923087,Kalmane Koffee,12.95428832,77.59182527,Coffee Shop
+458,Bangalore Corporation Building,12.9547553,77.5923087,Shantinagar Bus Stand,12.95452189,77.59265346,Bus Station
+459,Bangalore Corporation Building,12.9547553,77.5923087,KPN Travels,12.9529448,77.59367191,Bus Station
+460,Bangalore Corporation Building,12.9547553,77.5923087,Rahham_s Families International,12.95805907,77.59313575,Middle Eastern Restaurant
+461,Bangalore Corporation Building,12.9547553,77.5923087,Desi Vdesi,12.9578395,77.59350403,Vegetarian / Vegan Restaurant
+462,Bangalore Corporation Building,12.9547553,77.5923087,Double Road bus stop,12.95810073,77.59284932,Bus Station
+463,Bangalore Corporation Building,12.9547553,77.5923087,HOPCOMS,12.95121711,77.59111459,Shop & Service
+464,Bangalore Corporation Building,12.9547553,77.5923087,Vision Cinemas,12.95345847,77.59047404,Multiplex
+465,Bannerghatta Road,12.9106394,77.6000462,BBMP Park (Mini forest),12.90893745,77.59908854,Garden
+466,Bannerghatta Road,12.9106394,77.6000462,PVR Cinemas,12.9076222,77.60108215,Multiplex
+467,Bannerghatta Road,12.9106394,77.6000462,Vega City Mall,12.907603,77.60114,Shopping Mall
+468,Bannerghatta Road,12.9106394,77.6000462,MTR 1924,12.91173507,77.59911824,Indian Restaurant
+469,Bannerghatta Road,12.9106394,77.6000462,Starbucks,12.90755039,77.60122921,Coffee Shop
+470,Bannerghatta Road,12.9106394,77.6000462,Pvr Imax,12.90784658,77.60141378,Multiplex
+471,Bannerghatta Road,12.9106394,77.6000462,Lifestyle Stores,12.907541,77.601137,Clothing Store
+472,Bannerghatta Road,12.9106394,77.6000462,Parkview,12.91135872,77.59888739,Indian Restaurant
+473,Bannerghatta Road,12.9106394,77.6000462,Cuppa,12.91119499,77.59892627,Café
+474,Bannerghatta Road,12.9106394,77.6000462,Shoppers Stop,12.91216822,77.60012711,Shopping Mall
+475,Bannerghatta Road,12.9106394,77.6000462,Taco Bell,12.91426629,77.59980585,Fast Food Restaurant
+476,Bannerghatta Road,12.9106394,77.6000462,Sri Ram Sweets Centre,12.91426437,77.60065991,Dessert Shop
+477,Bannerghatta Road,12.9106394,77.6000462,Cafe Coffee Day,12.9143261,77.59978612,Café
+478,Bannerghatta Road,12.9106394,77.6000462,Park View,12.91134388,77.59887879,Indian Restaurant
+479,Bannerghatta Road,12.9106394,77.6000462,Pantaloons,12.9142617,77.59984026,Clothing Store
+480,Bannerghatta Road,12.9106394,77.6000462,Nandhana Palace,12.91147826,77.60008329,Indian Restaurant
+481,Bannerghatta Road,12.9106394,77.6000462,Crosswords,12.90703637,77.59894918,Bookstore
+482,Bannerghatta Road,12.9106394,77.6000462,Papa John_s,12.91183876,77.59993906,Pizza Place
+483,Bannerghatta Road,12.9106394,77.6000462,Punjabi Times,12.9118847,77.59996212,Indian Restaurant
+484,Bannerghatta Road,12.9106394,77.6000462,Check Post,12.910182,77.59929,Udupi Restaurant
+485,Bannerghatta Road,12.9106394,77.6000462,Deja Vu Restobar,12.91412178,77.59982308,Pub
+486,Bannerghatta Road,12.9106394,77.6000462,Hyderabad Handi Biryani,12.9117674,77.60230035,Indian Restaurant
+487,Bannerghatta Road,12.9106394,77.6000462,Go Bowling,12.91442855,77.59976498,Bowling Alley
+488,Bannerghatta Road,12.9106394,77.6000462,Spar,12.907847,77.601105,Supermarket
+489,Bannerghatta Road,12.9106394,77.6000462,Burger King,12.907294,77.600744,Fast Food Restaurant
+490,Bannerghatta,12.89558285,77.60262192,The Yellow Submarine,12.89762584,77.59969622,Indian Restaurant
+491,Bannerghatta,12.89558285,77.60262192,Chavadi,12.89219939,77.60253757,BBQ Joint
+492,Bannerghatta,12.89558285,77.60262192,Subway,12.896811,77.5999,Sandwich Place
+493,Bannerghatta,12.89558285,77.60262192,Cafe Coffee Day,12.89368239,77.6005125,Café
+494,Bannerghatta,12.89558285,77.60262192,Cafe Coffee Day,12.89593277,77.5985102,Café
+495,Bannerghatta,12.89558285,77.60262192,Big Bazaar,12.89765533,77.59988311,Department Store
+496,Basavanagudi,12.9417261,77.5755021,Rogue Elephant,12.94154139,77.57723352,Restaurant
+497,Basavanagudi,12.9417261,77.5755021,South Thindies,12.938533,77.57543729,Indian Restaurant
+498,Basavanagudi,12.9417261,77.5755021,Soho Bar & Grill,12.94468556,77.57296677,Hookah Bar
+499,Basavanagudi,12.9417261,77.5755021,Cafe Mondo,12.93968236,77.57759582,Café
+500,Basavanagudi,12.9417261,77.5755021,Chai Point,12.93862101,77.5785471,Tea Room
+501,Basavanagudi,12.9417261,77.5755021,The Rogue Elephant,12.941624,77.577034,Mediterranean Restaurant
+502,Basavanagudi,12.9417261,77.5755021,Tagore Circle Underpass,12.94307021,77.57343092,Metro Station
+503,Basavanagudi,12.9417261,77.5755021,Cafe Chokolade,12.94460576,77.57553438,Café
+504,Basavanagudi,12.9417261,77.5755021,Shiv Sagar,12.94430753,77.57273124,Indian Restaurant
+505,Basavanagudi,12.9417261,77.5755021,Mysore Mylari Hotel,12.94365889,77.57141231,Indian Restaurant
+506,Basavanagudi,12.9417261,77.5755021,Basavanagudi Union & Service Club,12.94456701,77.57360614,Athletics & Sports
+507,Basavanagudi,12.9417261,77.5755021,F5 Cafe,12.93948552,77.57175768,Café
+508,Basavanagudi,12.9417261,77.5755021,DVG Road,12.94202489,77.57109609,Road
+509,Begur,12.8633887,77.61301121,Akshaya Fresh,12.859616,77.61504,Fruit & Vegetable Store
+510,Begur,12.8633887,77.61301121,Just Bake,12.859181,77.61213,Bakery
+511,Begur,12.8633887,77.61301121,SNN Raj Serenity Playground,12.85924464,77.6147718,Playground
+512,Bolare,12.7542986,77.4856295,cafe white petals,12.75628948,77.48474121,Café
+513,Bolare,12.7542986,77.4856295,Surya Sagar Family Restaurant,12.750904,77.485872,Fast Food Restaurant
+514,Bommasandra Industrial Estate,12.79947605,77.6600241,Regaalia,12.79715157,77.66255951,Indian Restaurant
+515,Chamrajpet Bangalore,12.9569966,77.5633682,Davengere Benne Dosa,12.95786334,77.567354,Indian Restaurant
+516,Chamrajpet Bangalore,12.9569966,77.5633682,BANGARPET PANI PURI,12.95520635,77.56459785,Fast Food Restaurant
+517,Chamrajpet Bangalore,12.9569966,77.5633682,Food World,12.9588018,77.56708301,Shop & Service
+518,Chamrajpet Bangalore,12.9569966,77.5633682,Slv  Fast Food,12.95706243,77.56756436,Fast Food Restaurant
+519,Chamrajpet Bangalore,12.9569966,77.5633682,Ganesh Grand,12.961309,77.562301,Vegetarian / Vegan Restaurant
+520,"Chandapura,Chandapura",12.8004439,77.7062826,SRT mall,12.80200254,77.70573403,Convenience Store
+521,"Chandapura,Chandapura",12.8004439,77.7062826,Highway hotel,12.80238736,77.7035091,Asian Restaurant
+522,Chickpet,12.9680027,77.578642,Lakshmi Nataraj Refreshments,12.96747597,77.57946798,South Indian Restaurant
+523,Chickpet,12.9680027,77.578642,Nagarathpeth,12.96758241,77.57936247,Miscellaneous Shop
+524,Chickpet,12.9680027,77.578642,Kuberan Silks,12.96927842,77.57619479,Women_s Store
+525,Chickpet,12.9680027,77.578642,Taj Restaurant,12.96427907,77.57809205,Middle Eastern Restaurant
+526,Chickpet,12.9680027,77.578642,Narayan Idly,12.96402442,77.5780081,Food Truck
+527,Chikkalasandra,12.9121916,77.5476337,Kanti Sweets,12.91108143,77.55168982,Bakery
+528,Chikkalasandra,12.9121916,77.5476337,Domino_s Pizza,12.91090106,77.55144765,Pizza Place
+529,Chikkalasandra,12.9121916,77.5476337,Masala,12.9101103,77.55073097,Indian Restaurant
+530,Chikkalasandra,12.9121916,77.5476337,Kaggis Bake Shop,12.90919756,77.54932428,Bakery
+531,Chikkalasandra,12.9121916,77.5476337,Janatha Hotel,12.91029895,77.55082871,Indian Restaurant
+532,Chikkalasandra,12.9121916,77.5476337,new biriyani mane,12.91091759,77.55115242,Indian Restaurant
+533,Chikkalasandra,12.9121916,77.5476337,fitness cube,12.91035175,77.55102539,Gym
+534,Chikkalasandra,12.9121916,77.5476337,More 4 U,12.9087111,77.54975853,Department Store
+535,Deepanjalinagar,12.95062355,77.53655377,Deepanjali Nagar,12.95161428,77.5372687,Travel & Transport
+536,Deepanjalinagar,12.95062355,77.53655377,Deepanjali Nagar Metro Station,12.952166,77.5369,Metro Station
+537,Deepanjalinagar,12.95062355,77.53655377,At Home,12.94939282,77.53490606,Furniture / Home Store
+538,Dharmaram College,12.93384145,77.60420307,Subway,12.93195198,77.60265845,Sandwich Place
+539,Dharmaram College,12.93384145,77.60420307,Savoury - Sea Shell,12.93106788,77.60079932,Middle Eastern Restaurant
+540,Dharmaram College,12.93384145,77.60420307,Cafe Aloha,12.93565096,77.60807832,Café
+541,Dharmaram College,12.93384145,77.60420307,Cafe Coffee Day,12.93166411,77.60102749,Coffee Shop
+542,Dharmaram College,12.93384145,77.60420307,Vishnupriya Veg,12.93586625,77.60786763,Indian Restaurant
+543,Dharmaram College,12.93384145,77.60420307,Malabar Bay,12.93527261,77.60761825,Kerala Restaurant
+544,Dharmaram College,12.93384145,77.60420307,Domino_s Pizza,12.93551142,77.6083914,Pizza Place
+545,Dharmaram College,12.93384145,77.60420307,Fresheteria,12.93457183,77.60745359,Juice Bar
+546,Dharmaram College,12.93384145,77.60420307,Bake & Juice,12.93183918,77.60741675,Juice Bar
+547,Dharmaram College,12.93384145,77.60420307,Dairy Circle,12.93666783,77.60145544,Road
+548,Dharmaram College,12.93384145,77.60420307,Bangalore Dairy,12.93724701,77.60203665,Dessert Shop
+549,Doddakallasandra,12.8857355,77.5557448,Shankara Art Foundation,12.88452922,77.55502052,Arts & Entertainment
+550,Doddakallasandra,12.8857355,77.5557448,Ammi_s Biryani,12.88477007,77.55772979,Afghan Restaurant
+551,Electronics City,12.8468545,77.6769267,TCS Think Campus,12.84759822,77.67913809,Coworking Space
+552,Electronics City,12.8468545,77.6769267,TCS Think Campus Ground,12.84834364,77.67926679,Basketball Court
+553,Electronics City,12.8468545,77.6769267,Coffee Day Xpress,12.84882684,77.67894643,Café
+554,Electronics City,12.8468545,77.6769267,"Mint-The Kitchen, Think Campus.",12.84894133,77.67896028,Vegetarian / Vegan Restaurant
+555,Electronics City,12.8468545,77.6769267,Foodies Express,12.84762263,77.68072609,Diner
+556,Girinagar Bangalore,12.9401439,77.5444995,Kolkata Chats,12.941036,77.542527,Fast Food Restaurant
+557,Girinagar Bangalore,12.9401439,77.5444995,ME - MEAT & EAT,12.94298553,77.54580688,BBQ Joint
+558,Girinagar Bangalore,12.9401439,77.5444995,Avalahalli BDA park,12.94281511,77.5424473,Park
+559,Girinagar Bangalore,12.9401439,77.5444995,Lemon Tea Adda,12.943639,77.54352778,Smoke Shop
+560,Gottigere,12.8565317,77.5877237,Kubera Biryani Paradise,12.85788101,77.58906484,Indian Restaurant
+561,Gottigere,12.8565317,77.5877237,Apoorva Garden,12.85420236,77.58902728,Indian Restaurant
+562,Gottigere,12.8565317,77.5877237,Uphara Banashree,12.85360232,77.58847327,Indian Restaurant
+563,Gottigere,12.8565317,77.5877237,DMart Gottigere,12.853606,77.58863,Department Store
+564,HSR Layout,12.9116225,77.6388622,House of Commons,12.91199395,77.63893839,Pub
+565,HSR Layout,12.9116225,77.6388622,Cream Stone,12.91233626,77.63858102,Ice Cream Shop
+566,HSR Layout,12.9116225,77.6388622,Here & Now,12.91361787,77.63824266,Burger Joint
+567,HSR Layout,12.9116225,77.6388622,Shree Sweets,12.9142058,77.64098589,Snack Place
+568,HSR Layout,12.9116225,77.6388622,Calvins,12.91218236,77.63766096,Café
+569,HSR Layout,12.9116225,77.6388622,Once Upon A Flame,12.91192776,77.63805414,Steakhouse
+570,HSR Layout,12.9116225,77.6388622,Anjappar,12.91433756,77.63715892,Chettinad Restaurant
+571,HSR Layout,12.9116225,77.6388622,The Punjabi Rasoi,12.91195901,77.63842482,Punjabi Restaurant
+572,HSR Layout,12.9116225,77.6388622,Baskin Robbins,12.91190648,77.63827861,Ice Cream Shop
+573,HSR Layout,12.9116225,77.6388622,49ParanthaGali,12.91230945,77.63856948,North Indian Restaurant
+574,HSR Layout,12.9116225,77.6388622,Grapevine,12.90940161,77.63816758,Mediterranean Restaurant
+575,HSR Layout,12.9116225,77.6388622,Drops Total Spirits,12.91441113,77.63827698,Liquor Store
+576,HSR Layout,12.9116225,77.6388622,Café Coffee Day,12.90928571,77.63967276,Coffee Shop
+577,HSR Layout,12.9116225,77.6388622,MK Ahmed Super Market,12.91246164,77.63671325,Department Store
+578,HSR Layout,12.9116225,77.6388622,Cafe Coffee Day,12.912312,77.641245,Café
+579,HSR Layout,12.9116225,77.6388622,Parika,12.91200774,77.63934474,Seafood Restaurant
+580,HSR Layout,12.9116225,77.6388622,Adyar Ananda Bhavan,12.91371522,77.637479,Indian Restaurant
+581,HSR Layout,12.9116225,77.6388622,The Moghul_s,12.91228533,77.64207017,Indian Restaurant
+582,HSR Layout,12.9116225,77.6388622,Jarokha,12.91220229,77.63798635,Indian Restaurant
+583,HSR Layout,12.9116225,77.6388622,SAFA Fruits N Vegetables,12.91339529,77.63703918,Farmers Market
+584,HSR Layout,12.9116225,77.6388622,Gold Bean,12.91227348,77.64085435,Café
+585,HSR Layout,12.9116225,77.6388622,KFC,12.91327195,77.63821438,Fast Food Restaurant
+586,HSR Layout,12.9116225,77.6388622,Bangalore Agarwal Bhavan,12.9132286,77.63526426,Snack Place
+587,HSR Layout,12.9116225,77.6388622,Subway,12.91194764,77.63810078,Sandwich Place
+588,HSR Layout,12.9116225,77.6388622,The Deck,12.91183169,77.63884933,Lounge
+589,HSR Layout,12.9116225,77.6388622,Pizza Hut,12.91231839,77.63784153,Pizza Place
+590,HSR Layout,12.9116225,77.6388622,Mast Kalander,12.9147796,77.63812499,Indian Restaurant
+591,HSR Layout,12.9116225,77.6388622,HSR Club,12.90972112,77.64304427,General Entertainment
+592,HSR Layout,12.9116225,77.6388622,Snap Fitness,12.91174729,77.63796599,Gym
+593,HSR Layout,12.9116225,77.6388622,Sri Shakthi Chat,12.9124153,77.63708157,Fast Food Restaurant
+594,HSR Layout,12.9116225,77.6388622,Krispy Kreme,12.91356046,77.63825935,Donut Shop
+595,HSR Layout,12.9116225,77.6388622,L j Iyengar bakery,12.90949595,77.63847998,Bakery
+596,HSR Layout,12.9116225,77.6388622,Maharaja Palace,12.91251139,77.63677952,Indian Restaurant
+597,HSR Layout,12.9116225,77.6388622,Itsy Bitsy,12.90923739,77.63847998,Arts & Crafts Store
+598,HSR Layout,12.9116225,77.6388622,Mughal Garden HSR LAYOUT,12.9103477,77.63524124,Indian Restaurant
+599,HSR Layout,12.9116225,77.6388622,Cafe Pascucci,12.911899,77.64274,Café
+600,HSR Layout,12.9116225,77.6388622,Chinnaswamy Naidu Biryani,12.91245421,77.63490562,South Indian Restaurant
+601,HSR Layout,12.9116225,77.6388622,Sector 3 Twin Park,12.907971,77.64066,Park
+602,Hulimangala,12.8188956,77.6384041,Domino_s Pizza,12.817,77.638,Pizza Place
+603,"Hulimavu,Hulimavu",12.8773486,77.6028031,Sports Alley,12.876764,77.60522,Badminton Court
+604,"Hulimavu,Hulimavu",12.8773486,77.6028031,Hulimavu Lake,12.88022415,77.60375514,Lake
+605,"Hulimavu,Hulimavu",12.8773486,77.6028031,D Bell Pepperz,12.874252,77.60258,Restaurant
+606,"Hulimavu,Hulimavu",12.8773486,77.6028031,Shoppers Stop,12.87572497,77.59925641,Department Store
+607,J P Nagar,12.9094922,77.59673856,BBMP Park (Mini forest),12.90893745,77.59908854,Garden
+608,J P Nagar,12.9094922,77.59673856,Barbeque Nation,12.90639576,77.5967809,Mediterranean Restaurant
+609,J P Nagar,12.9094922,77.59673856,Spice Up,12.90933151,77.59326356,Diner
+610,J P Nagar,12.9094922,77.59673856,MTR 1924,12.91173507,77.59911824,Indian Restaurant
+611,J P Nagar,12.9094922,77.59673856,Onesta,12.90605459,77.59690345,Italian Restaurant
+612,J P Nagar,12.9094922,77.59673856,Gold_s Gym,12.90651276,77.59683499,Gym
+613,J P Nagar,12.9094922,77.59673856,Au Bon Pain,12.90623548,77.59684802,Bakery
+614,J P Nagar,12.9094922,77.59673856,Khaana Khazana,12.91067481,77.59320015,Indian Restaurant
+615,J P Nagar,12.9094922,77.59673856,Chaitanya Cafe,12.90617178,77.59607135,Indian Restaurant
+616,J P Nagar,12.9094922,77.59673856,Parkview,12.91135872,77.59888739,Indian Restaurant
+617,J P Nagar,12.9094922,77.59673856,Kai Ruchi,12.91022455,77.59239091,Fast Food Restaurant
+618,J P Nagar,12.9094922,77.59673856,Cuppa,12.91119499,77.59892627,Café
+619,J P Nagar,12.9094922,77.59673856,Crosswords,12.90703637,77.59894918,Bookstore
+620,J P Nagar,12.9094922,77.59673856,Daily Bread,12.90634326,77.59668972,Bakery
+621,J P Nagar,12.9094922,77.59673856,Park View,12.91134388,77.59887879,Indian Restaurant
+622,J P Nagar,12.9094922,77.59673856,Shoppers Stop,12.91216822,77.60012711,Shopping Mall
+623,J P Nagar,12.9094922,77.59673856,K.C Das,12.90616739,77.59502516,Snack Place
+624,J P Nagar,12.9094922,77.59673856,Pizza Stop,12.90554978,77.59505881,Pizza Place
+625,J P Nagar,12.9094922,77.59673856,Check Post,12.910182,77.59929,Udupi Restaurant
+626,J P Nagar,12.9094922,77.59673856,Domino_s Pizza,12.90615936,77.59605413,Pizza Place
+627,J P Nagar,12.9094922,77.59673856,Costa Coffee,12.90629612,77.59685589,Café
+628,J P Nagar,12.9094922,77.59673856,Nakshatra Fine Dine Restaurant,12.90635531,77.59619,Indian Restaurant
+629,J P Nagar,12.9094922,77.59673856,Calvin_s,12.90631485,77.59687805,Café
+630,J P Nagar,12.9094922,77.59673856,Nandhana Palace,12.91147826,77.60008329,Indian Restaurant
+631,J P Nagar,12.9094922,77.59673856,Papa John_s,12.91183876,77.59993906,Pizza Place
+632,J P Nagar,12.9094922,77.59673856,Punjabi Times,12.9118847,77.59996212,Indian Restaurant
+633,J P Nagar,12.9094922,77.59673856,Juice Junction,12.905873,77.594984,Juice Bar
+634,J P Nagar,12.9094922,77.59673856,Burger King,12.907294,77.600744,Fast Food Restaurant
+635,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Hatti Kaapi,12.92853938,77.58175147,Coffee Shop
+636,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Sapna Book House,12.93072912,77.58155447,Bookstore
+637,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Maiya_s,12.92860297,77.58182127,Indian Restaurant
+638,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Kedias fun food,12.92887878,77.58167421,Indian Restaurant
+639,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Sreeraj Lassi Bar,12.93134551,77.58350508,Juice Bar
+640,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Hari Super Sandwich,12.93294724,77.58253633,Sandwich Place
+641,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Pizza Hut,12.93083222,77.58319166,Pizza Place
+642,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Golds Gym,12.93200607,77.58315335,Gym
+643,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Cool Joint,12.92858708,77.58600576,Sandwich Place
+644,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Lassi Park,12.93297511,77.58243059,Juice Bar
+645,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Krazzy Folds,12.92719476,77.58610037,Mexican Restaurant
+646,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Ganesh Darshan Restaurant,12.9310568,77.58389285,Indian Restaurant
+647,"Jayanagar,Jayanagar West",12.9292731,77.5824229,"Subz,Cosmopolitan Club",12.93291219,77.58489731,Restaurant
+648,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Once Upon a Rooftop,12.92543119,77.58366098,Restaurant
+649,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Cane O La,12.92885973,77.58600936,Juice Bar
+650,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Cakewala @ Jayanagar 4th Block,12.92896985,77.58602759,Bakery
+651,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Flamenco,12.929358,77.58161522,Café
+652,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Sukh Sagar,12.92865197,77.58276518,Indian Restaurant
+653,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Kuch Bhi,12.93276924,77.58355532,Indian Restaurant
+654,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Anand Sweets,12.93069033,77.58098578,Indian Restaurant
+655,"Jayanagar,Jayanagar West",12.9292731,77.5824229,1947,12.92764238,77.58621575,Indian Restaurant
+656,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Hotel Nandhini,12.93059186,77.58139587,Hotel
+657,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Caffe Pascucci,12.92724075,77.58623728,Café
+658,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Meghana Foods,12.92623696,77.58458376,Indian Restaurant
+659,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Nagarjuna,12.93289219,77.58408724,Andhra Restaurant
+660,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Roll Over,12.930757,77.58125,Dessert Shop
+661,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Sichaun Court,12.92725564,77.58623108,Chinese Restaurant
+662,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Subz,12.93291777,77.58510548,Indian Restaurant
+663,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Rooftop Cafe,12.92900314,77.58601475,Café
+664,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Vasudev Adigas,12.93071054,77.58635879,Indian Restaurant
+665,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Jayanagar 4th Block Complex,12.92948197,77.58443282,Shopping Plaza
+666,"Jayanagar,Jayanagar West",12.9292731,77.5824229,"Barista, Jayanagr",12.92743955,77.58362532,Café
+667,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Kalmane Koffee,12.9297087,77.58497446,Café
+668,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Krispy Kreme,12.9269342,77.58623281,Donut Shop
+669,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Max,12.93156304,77.58602927,Women_s Store
+670,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Canton Restaurant & Bar,12.93242342,77.5838667,Chinese Restaurant
+671,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Hot Chips,12.92867017,77.58534874,Indian Restaurant
+672,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Parivar Bar & Restaurant,12.92689269,77.5862043,Bar
+673,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Cafe Coffee Day Lounge,12.92760686,77.5865221,Café
+674,"Jayanagar,Jayanagar West",12.9292731,77.5824229,La Casa,12.92609121,77.58485848,Gastropub
+675,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Gufha,12.93330594,77.58334021,Indian Restaurant
+676,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Grill Square,12.92626421,77.58427955,BBQ Joint
+677,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Brewmeister,12.92640527,77.58467628,Brewery
+678,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Uphara Darshini,12.93288586,77.58449678,Indian Restaurant
+679,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Burger King,12.92801457,77.58624041,Fast Food Restaurant
+680,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Adigas,12.93070725,77.58639617,Indian Restaurant
+681,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Cafe Coffee Day,12.92625093,77.58388914,Café
+682,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Kanti Sweets,12.93103077,77.58606848,Candy Store
+683,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Empire Jayanagar,12.93293643,77.58149723,Indian Restaurant
+684,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Chungs,12.93289937,77.58474642,Chinese Restaurant
+685,"Jayanagar,Jayanagar West",12.9292731,77.5824229,KFC,12.92683007,77.58625818,Fast Food Restaurant
+686,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Blue Wagon,12.927191,77.585278,Snack Place
+687,"Jayanagar,Jayanagar West",12.9292731,77.5824229,The Gowrav,12.93074391,77.5856638,Indian Restaurant
+688,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Puma Store,12.92955776,77.58603894,Sporting Goods Shop
+689,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Santrupti Chats and Condiments,12.93311257,77.58245172,Snack Place
+690,"Jayanagar,Jayanagar West",12.9292731,77.5824229,Rajathadri Food Fort,12.92792531,77.57810379,Indian Restaurant
+691,"Jayanagar,Jayanagar West",12.9292731,77.5824229,max Clothes Store,12.93157389,77.58617885,Men_s Store
+692,Kathriguppe,12.9309981,77.5545062,Kavali,12.92805909,77.55600975,Breakfast Spot
+693,Kathriguppe,12.9309981,77.5545062,Adyar Ananda Bhavan,12.92935589,77.55216165,Fast Food Restaurant
+694,Kathriguppe,12.9309981,77.5545062,Corner Adda,12.93219223,77.55107448,Smoke Shop
+695,Kathriguppe,12.9309981,77.5545062,Chennammankere Achukattu BMTC Bus Stand,12.92817269,77.55704129,Bus Station
+696,Konanakunte,12.88601785,77.5791414,Kabab Mahal,12.88666139,77.58206772,Indian Restaurant
+697,Konanakunte,12.88601785,77.5791414,Kakal Kai Ruchi,12.88728663,77.58201624,Breakfast Spot
+698,Konanakunte,12.88601785,77.5791414,Momo Jojo,12.88652,77.58224,Dumpling Restaurant
+699,Konanakunte,12.88601785,77.5791414,Kanti Sweets,12.88851132,77.58183611,Candy Store
+700,Koramangala I Block,12.9274264,77.63108781,iService,12.9267128,77.6334849,Mobile Phone Shop
+701,Koramangala I Block,12.9274264,77.63108781,A Cafe,12.92967456,77.63071686,Bakery
+702,Koramangala I Block,12.9274264,77.63108781,Natural_s,12.93050142,77.63305598,Ice Cream Shop
+703,Koramangala I Block,12.9274264,77.63108781,Grand Mercure Bangalore,12.92906961,77.62789031,Hotel
+704,Koramangala I Block,12.9274264,77.63108781,Cafe Terra,12.93002632,77.63313482,Café
+705,Koramangala I Block,12.9274264,77.63108781,Cafe Thulp,12.92899902,77.63520753,Burger Joint
+706,Koramangala I Block,12.9274264,77.63108781,Banjara Melting Pot,12.93132797,77.63282032,Indian Restaurant
+707,Koramangala I Block,12.9274264,77.63108781,Sathya_s,12.92916156,77.62904111,Hotel Bar
+708,Koramangala I Block,12.9274264,77.63108781,By The Blue,12.92915754,77.62828007,Indian Restaurant
+709,Koramangala I Block,12.9274264,77.63108781,Pingara,12.92515972,77.63352143,Indian Restaurant
+710,Koramangala I Block,12.9274264,77.63108781,Spencers,12.92723798,77.63328627,Department Store
+711,Koramangala I Block,12.9274264,77.63108781,154 breakfast club,12.92911637,77.62915895,Breakfast Spot
+712,Koramangala I Block,12.9274264,77.63108781,The Beer Cafe,12.9313402,77.63302721,Bar
+713,Koramangala I Block,12.9274264,77.63108781,Sri Vishnu Upahar,12.93014934,77.63367436,Indian Restaurant
+714,Koramangala I Block,12.9274264,77.63108781,Udupi Upahar,12.92525968,77.63360289,Indian Restaurant
+715,Koramangala I Block,12.9274264,77.63108781,Cafe Coffee Day,12.92639386,77.63338566,Café
+716,Koramangala I Block,12.9274264,77.63108781,The Fat Fanny_s Cafe,12.93047137,77.63303054,Café
+717,Koramangala I Block,12.9274264,77.63108781,Lazeez Restaurant,12.92958006,77.63405732,Indian Restaurant
+718,Koramangala I Block,12.9274264,77.63108781,12th Main Restaurant,12.92891657,77.62730667,Restaurant
+719,Koramangala I Block,12.9274264,77.63108781,Bhukkad,12.93032732,77.63299547,Fast Food Restaurant
+720,Koramangala I Block,12.9274264,77.63108781,Juicy,12.92630563,77.6334993,Dessert Shop
+721,Koramangala I Block,12.9274264,77.63108781,au-hom yoga & Wellness center,12.92850477,77.62887499,Yoga Studio
+722,Koramangala I Block,12.9274264,77.63108781,Magnolia,12.92602887,77.63342095,Thai Restaurant
+723,Koramangala I Block,12.9274264,77.63108781,Nilgiri_s,12.93094649,77.63287475,Department Store
+724,Koramangala I Block,12.9274264,77.63108781,Pool,12.92920341,77.62803624,Hotel Pool
+725,Koramangala I Block,12.9274264,77.63108781,Chai Patti,12.93066772,77.63300931,Café
+726,Koramangala I Block,12.9274264,77.63108781,Roots Restaurant,12.92925407,77.63449188,Indian Restaurant
+727,Koramangala I Block,12.9274264,77.63108781,Shree Saraswathi Sweets Centre,12.92938583,77.63442455,Snack Place
+728,Kumaraswamy Layout,12.9068169,77.56352474,Tree Shade,12.90687039,77.56334273,Burger Joint
+729,Kumaraswamy Layout,12.9068169,77.56352474,Polar Bear,12.90891171,77.56256005,Ice Cream Shop
+730,Kumaraswamy Layout,12.9068169,77.56352474,Cafe Coffee Day,12.90855362,77.56617067,Café
+731,Kumaraswamy Layout,12.9068169,77.56352474,Slv refreshment,12.90531289,77.56277312,Breakfast Spot
+732,Kumaraswamy Layout,12.9068169,77.56352474,Njac,12.9077798,77.56321907,Café
+733,Kumaraswamy Layout,12.9068169,77.56352474,Olive Era,12.90717377,77.56381423,Indian Restaurant
+734,Kumaraswamy Layout,12.9068169,77.56352474,hari super sandwich,12.90707732,77.56385901,Sandwich Place
+735,Kumaraswamy Layout,12.9068169,77.56352474,Chai shop near bangalore airport,12.90570485,77.56525273,Food Truck
+736,Kumaraswamy Layout,12.9068169,77.56352474,Stop N Joy,12.90686228,77.55948183,Sandwich Place
+737,Kumbalagodu,12.8786167,77.4467629,State Bank of India ATM,12.87816,77.44679,ATM
+738,Kumbalagodu,12.8786167,77.4467629,Axis Bank ATM,12.88019,77.44824,ATM
+739,Kumbalagodu,12.8786167,77.4467629,Jenu Cafe,12.8806076,77.44551849,Café
+740,Kumbalagodu,12.8786167,77.4467629,Nisarga Dhaba,12.880967,77.447507,Dhaba
+741,Madhavan Park,12.936265,77.58570856,Café Toscano,12.93702397,77.58508013,Bistro
+742,Madhavan Park,12.936265,77.58570856,Fab India,12.93725787,77.58524543,Boutique
+743,Madhavan Park,12.936265,77.58570856,Helios,12.93812043,77.58515101,Shop & Service
+744,Madhavan Park,12.936265,77.58570856,Au Bon Pain,12.93391218,77.58403563,Café
+745,Madhavan Park,12.936265,77.58570856,Cosmo Club,12.9331888,77.58557446,Lounge
+746,Madhavan Park,12.936265,77.58570856,"Subz,Cosmopolitan Club",12.93291219,77.58489731,Restaurant
+747,Madhavan Park,12.936265,77.58570856,Karnataka Bhel House,12.9394048,77.58404552,Snack Place
+748,Madhavan Park,12.936265,77.58570856,Tanishq Jayanagar,12.93266517,77.58611809,Jewelry Store
+749,Madhavan Park,12.936265,77.58570856,Three Quarter Chinese,12.93302859,77.58521484,Chinese Restaurant
+750,Madhavan Park,12.936265,77.58570856,Madhavan Park,12.93588764,77.58510997,Park
+751,Madhavan Park,12.936265,77.58570856,Subz,12.93291777,77.58510548,Indian Restaurant
+752,Madhavan Park,12.936265,77.58570856,Java City,12.93498671,77.58273461,Coffee Shop
+753,Madhavan Park,12.936265,77.58570856,Kuch Bhi,12.93276924,77.58355532,Indian Restaurant
+754,Madhavan Park,12.936265,77.58570856,Nagarjuna,12.93289219,77.58408724,Andhra Restaurant
+755,Madhavan Park,12.936265,77.58570856,Pai Viceroy,12.93609751,77.58393002,Hotel
+756,Madhavan Park,12.936265,77.58570856,Gufha,12.93330594,77.58334021,Indian Restaurant
+757,Madhavan Park,12.936265,77.58570856,Uphara Darshini,12.93288586,77.58449678,Indian Restaurant
+758,Madhavan Park,12.936265,77.58570856,Canton Restaurant & Bar,12.93242342,77.5838667,Chinese Restaurant
+759,Madhavan Park,12.936265,77.58570856,Level 5,12.934179,77.582948,Lounge
+760,Madhavan Park,12.936265,77.58570856,Chung Wah OPUS,12.9350015,77.58277531,Chinese Restaurant
+761,Madhavan Park,12.936265,77.58570856,Ferghana,12.93428684,77.58304922,Asian Restaurant
+762,Madhavan Park,12.936265,77.58570856,Daily Bread,12.93517621,77.58405983,Café
+763,Madhavan Park,12.936265,77.58570856,Amoeba,12.93315075,77.58518483,Bowling Alley
+764,Madhavan Park,12.936265,77.58570856,Chungs,12.93289937,77.58474642,Chinese Restaurant
+765,Madhavan Park,12.936265,77.58570856,Punjabi Raswada,12.93222276,77.58617226,Indian Restaurant
+766,Madhavan Park,12.936265,77.58570856,Kittur Rani Chennamma Stadium,12.93391923,77.58619564,Stadium
+767,Madhavan Park,12.936265,77.58570856,Upahara Darshini,12.93338401,77.58457832,Indian Restaurant
+768,Madhavan Park,12.936265,77.58570856,Reliance Fresh,12.93288738,77.5852895,Department Store
+769,Madhavan Park,12.936265,77.58570856,Ameoba  (Jayanagar),12.93287399,77.58533942,Bowling Alley
+770,Madhavan Park,12.936265,77.58570856,Mast Kalandar,12.93252665,77.58615087,Indian Restaurant
+771,Madhavan Park,12.936265,77.58570856,Veena Musicals,12.93932378,77.58248045,Music Store
+772,Madhavan Park,12.936265,77.58570856,Santrupti Chats and Condiments,12.93311257,77.58245172,Snack Place
+773,Mallathahalli,12.9623214,77.5057232,Swathi Restaurant,12.96083855,77.50771586,Indian Restaurant
+774,Mallathahalli,12.9623214,77.5057232,Bangalore Wheels - Yamaha service centre,12.96332455,77.50423431,Motorcycle Shop
+775,Mallathahalli,12.9623214,77.5057232,M K Ahmed super market,12.96082183,77.50693137,Market
+776,Mallathahalli,12.9623214,77.5057232,Mcdonalds,12.96069,77.50883,Burger Joint
+777,Mallathahalli,12.9623214,77.5057232,Cloud Cafe,12.961044,77.509285,Café
+778,Mavalli,12.9528478,77.5819643,Mavalli Tiffin Room (MTR),12.9551223,77.58555184,Indian Restaurant
+779,Mavalli,12.9528478,77.5819643,NMH Tiffin House,12.95430002,77.57880602,Indian Restaurant
+780,Mavalli,12.9528478,77.5819643,Food Street,12.9509559,77.57779773,Snack Place
+781,Mavalli,12.9528478,77.5819643,Shivanna Gulkhan Store,12.95087149,77.57787565,Restaurant
+782,Mavalli,12.9528478,77.5819643,Mayuri Restaurant,12.95612027,77.58084504,Indian Restaurant
+783,Mavalli,12.9528478,77.5819643,Springs Hotel and Spa,12.95670314,77.58353012,Hotel
+784,Mavalli,12.9528478,77.5819643,Hotel Nandhini,12.95530731,77.57949841,Indian Restaurant
+785,Mavalli,12.9528478,77.5819643,Pai Viceroy Hotel JC Road Bangalore,12.95628166,77.58048177,Hotel
+786,Mico Layout,12.9151131,77.6006286,Kabab Magic,12.91624835,77.59689893,Indian Restaurant
+787,Mico Layout,12.9151131,77.6006286,MTR 1924,12.91173507,77.59911824,Indian Restaurant
+788,Mico Layout,12.9151131,77.6006286,Taco Bell,12.91426629,77.59980585,Fast Food Restaurant
+789,Mico Layout,12.9151131,77.6006286,Sri Ram Sweets Centre,12.91426437,77.60065991,Dessert Shop
+790,Mico Layout,12.9151131,77.6006286,Cafe Coffee Day,12.9143261,77.59978612,Café
+791,Mico Layout,12.9151131,77.6006286,Udupi Gokul Cafe,12.9162892,77.60303894,Vegetarian / Vegan Restaurant
+792,Mico Layout,12.9151131,77.6006286,Pantaloons,12.9142617,77.59984026,Clothing Store
+793,Mico Layout,12.9151131,77.6006286,Parkview,12.91135872,77.59888739,Indian Restaurant
+794,Mico Layout,12.9151131,77.6006286,Absolute Barbecues,12.91658072,77.60482037,BBQ Joint
+795,Mico Layout,12.9151131,77.6006286,Shoppers Stop,12.91216822,77.60012711,Shopping Mall
+796,Mico Layout,12.9151131,77.6006286,Go Bowling,12.91442855,77.59976498,Bowling Alley
+797,Mico Layout,12.9151131,77.6006286,Deja Vu Restobar,12.91412178,77.59982308,Pub
+798,Mico Layout,12.9151131,77.6006286,Brewz Coffee,12.9163299,77.60413162,Coffee Shop
+799,Mico Layout,12.9151131,77.6006286,Chung_s,12.9167977,77.59836811,Chinese Restaurant
+800,Mico Layout,12.9151131,77.6006286,The Biryanis,12.91691907,77.59688946,Indian Restaurant
+801,Mico Layout,12.9151131,77.6006286,Cuppa,12.91119499,77.59892627,Café
+802,Mico Layout,12.9151131,77.6006286,Park View,12.91134388,77.59887879,Indian Restaurant
+803,Mico Layout,12.9151131,77.6006286,Punjabi Times,12.9118847,77.59996212,Indian Restaurant
+804,Mico Layout,12.9151131,77.6006286,Papa John_s,12.91183876,77.59993906,Pizza Place
+805,Mico Layout,12.9151131,77.6006286,Nandhana Palace,12.91147826,77.60008329,Indian Restaurant
+806,Mico Layout,12.9151131,77.6006286,Panchami Garden,12.91869151,77.60098699,Indian Restaurant
+807,Mount St Joseph,12.8684124,77.59082131,Grasshopper,12.86404051,77.5900451,Italian Restaurant
+808,Nayandahalli,12.9454012,77.5278104,Metro Shoes,12.94551158,77.52851213,Accessories Store
+809,Nayandahalli,12.9454012,77.5278104,Vybhava Darshini,12.94398975,77.52656555,Fast Food Restaurant
+810,Nayandahalli,12.9454012,77.5278104,Nayandahalli,12.94500862,77.53014145,Train Station
+811,Nayandahalli,12.9454012,77.5278104,Nichi-In Software Solution Pvt. Ltd.,12.94674225,77.52523899,IT Services
+812,Nayandahalli,12.9454012,77.5278104,Mysore Road Metro Station,12.94673752,77.53040348,Metro Station
+813,Nayandahalli,12.9454012,77.5278104,KCFF,12.94543974,77.52405521,Flea Market
+814,Nayandahalli,12.9454012,77.5278104,Toll Gate - NICE Road - Hosakerehalli,12.941388,77.528609,Toll Plaza
+815,St. Johns Medical College,12.92828785,77.61204093,Staples,12.93196716,77.61315252,Paper / Office Supplies Store
+816,St. Johns Medical College,12.92828785,77.61204093,Top in Town,12.92965641,77.60917068,Bakery
+817,St. Johns Medical College,12.92828785,77.61204093,Forking Rolls,12.92974434,77.6109505,Diner
+818,St. Johns Medical College,12.92828785,77.61204093,Seashell,12.92677626,77.61621142,Indian Restaurant
+819,St. Johns Medical College,12.92828785,77.61204093,Kairali Restuarant,12.92654039,77.61579316,Diner
+820,St. Johns Medical College,12.92828785,77.61204093,The Kabsa,12.92431292,77.60988951,Indian Restaurant
+821,St. Johns Medical College,12.92828785,77.61204093,Oottupura,12.92671341,77.61582231,Kerala Restaurant
+822,St. Johns Medical College,12.92828785,77.61204093,Malabar Mess,12.92476486,77.61465496,Indian Restaurant
+823,St. Johns Medical College,12.92828785,77.61204093,Savoury,12.92679993,77.61631595,Fast Food Restaurant
+824,State Bank Of Mysore Colony,13.000405,77.6233725,Village Supermarket,12.9995462,77.62296275,Shopping Mall
+825,State Bank Of Mysore Colony,13.000405,77.6233725,Manjit Da Dhaba,12.99800946,77.62225481,Indian Restaurant
+826,State Bank Of Mysore Colony,13.000405,77.6233725,Cafe Coffee Day,12.99996706,77.62558599,Coffee Shop
+827,State Bank Of Mysore Colony,13.000405,77.6233725,Delicacy,12.99997878,77.62307835,Chinese Restaurant
+828,State Bank Of Mysore Colony,13.000405,77.6233725,Cafe D_Costa,13.00389075,77.6246965,Café
+829,State Bank Of Mysore Colony,13.000405,77.6233725,Milton Park,13.00067671,77.62400947,Playground
+830,State Bank Of Mysore Colony,13.000405,77.6233725,Basha Departmental Stores,13.00139826,77.62359443,Department Store
+831,State Bank Of Mysore Colony,13.000405,77.6233725,Evergreen Store,13.00358476,77.62249233,Convenience Store
+832,Subramanyapura,12.8839705,77.5412114,Just Books CLC,12.88326568,77.5423193,Bookstore
+833,Subramanyapura,12.8839705,77.5412114,Meenakshi Shoppe,12.885769,77.545364,Stationery Store
+834,Subramanyapura,12.8839705,77.5412114,Hat-tea,12.88053171,77.54408761,Café
+835,Subramanyapura,12.8839705,77.5412114,Chicken Den,12.8872982,77.54423876,Indian Restaurant
+836,Thalaghattapura,12.8698169,77.5356688,Swadeshi_s,12.86709187,77.53514121,Indian Restaurant
+837,Tilaknagar Bangalore,12.928367,77.5905691,Cool Joint,12.92858708,77.58600576,Sandwich Place
+838,Tilaknagar Bangalore,12.928367,77.5905691,Cane O La,12.92885973,77.58600936,Juice Bar
+839,Tilaknagar Bangalore,12.928367,77.5905691,Cakewala @ Jayanagar 4th Block,12.92896985,77.58602759,Bakery
+840,Tilaknagar Bangalore,12.928367,77.5905691,Caffe Pascucci,12.92724075,77.58623728,Café
+841,Tilaknagar Bangalore,12.928367,77.5905691,1947,12.92764238,77.58621575,Indian Restaurant
+842,Tilaknagar Bangalore,12.928367,77.5905691,Sichaun Court,12.92725564,77.58623108,Chinese Restaurant
+843,Tilaknagar Bangalore,12.928367,77.5905691,Rooftop Cafe,12.92900314,77.58601475,Café
+844,Tilaknagar Bangalore,12.928367,77.5905691,Ibaco,12.92624141,77.58717667,Ice Cream Shop
+845,Tilaknagar Bangalore,12.928367,77.5905691,Krispy Kreme,12.9269342,77.58623281,Donut Shop
+846,Tilaknagar Bangalore,12.928367,77.5905691,D Mart,12.92869513,77.59151846,Department Store
+847,Tilaknagar Bangalore,12.928367,77.5905691,Cafe Coffee Day Lounge,12.92760686,77.5865221,Café
+848,Tilaknagar Bangalore,12.928367,77.5905691,Jimi_s Beer Cafe,12.92878744,77.59133636,Pub
+849,Tilaknagar Bangalore,12.928367,77.5905691,Inox Jayanagar,12.92867846,77.59123543,Multiplex
+850,Tilaknagar Bangalore,12.928367,77.5905691,Burger King,12.92801457,77.58624041,Fast Food Restaurant
+851,Tilaknagar Bangalore,12.928367,77.5905691,KFC,12.92683007,77.58625818,Fast Food Restaurant
+852,Wilson Garden,12.9489339,77.5968273,Costa Coffee,12.9488892,77.59759452,Coffee Shop
+853,Wilson Garden,12.9489339,77.5968273,Wilson Garden - Food Street,12.94887486,77.59800813,Southern / Soul Food Restaurant
+854,Wilson Garden,12.9489339,77.5968273,Cafe Coffee Day,12.94994325,77.59299606,Café
+855,Wilson Garden,12.9489339,77.5968273,May Flower Restaurant,12.94755235,77.59754416,Asian Restaurant
+856,Wilson Garden,12.9489339,77.5968273,Srinivasa Mess,12.9506303,77.59664885,Indian Restaurant
+857,Wilson Garden,12.9489339,77.5968273,Foodies Junction,12.94881596,77.59789668,Breakfast Spot
+858,Wilson Garden,12.9489339,77.5968273,Airtel Express,12.94771029,77.5987468,Mobile Phone Shop
+859,Wilson Garden,12.9489339,77.5968273,Temple Tree,12.948011,77.594645,Hotel
+860,Wilson Garden,12.9489339,77.5968273,Hombegowda Park,12.94696898,77.59447771,Park
+861,Wilson Garden,12.9489339,77.5968273,Brand Factory,12.94568265,77.59584898,Clothing Store
+862,Yelachenahalli,12.897971,77.5700846,Domino_s Pizza,12.89395851,77.56815765,Pizza Place
+863,Yelachenahalli,12.897971,77.5700846,Yelachenahalli Metro Station,12.89621711,77.5701572,Metro Station
+864,Yelachenahalli,12.897971,77.5700846,"HSR Services, Kanakapura Road",12.896796,77.5724,Motorcycle Shop
+865,Yelachenahalli,12.897971,77.5700846,Sri Krishna Sagar Restaurant,12.89400969,77.5682682,Indian Restaurant
+866,Bagalgunte,13.0566493,77.5048222,Domino_s Pizza,13.05397229,77.50755298,Pizza Place
+867,Bagalgunte,13.0566493,77.5048222,Duroflex,13.055641,77.507462,Mattress Store
+868,Bagalgunte,13.0566493,77.5048222,Royal Mart Supermarket,13.059109,77.506718,Department Store
+869,Bagalgunte,13.0566493,77.5048222,Park View Bakery & Sweets,13.060029,77.506238,Snack Place
+870,Basaveshwaranagar,12.986475,77.5385709,Priyadarshini Grand,12.99023488,77.53801957,Fast Food Restaurant
+871,Basaveshwaranagar,12.986475,77.5385709,Bansuri Sweets,12.98691225,77.53969848,Indian Restaurant
+872,Basaveshwaranagar,12.986475,77.5385709,McDonald_s,12.9885967,77.53766403,Fast Food Restaurant
+873,Basaveshwaranagar,12.986475,77.5385709,Matru Sagar,12.98798303,77.53766061,Fast Food Restaurant
+874,Basaveshwaranagar,12.986475,77.5385709,Prashanth Hotel,12.986922,77.537251,Karnataka Restaurant
+875,Basaveshwaranagar,12.986475,77.5385709,Kulfi & More,12.98525717,77.53722392,Snack Place
+876,Basaveshwaranagar,12.986475,77.5385709,Masala Munch,12.98661759,77.54047187,Burger Joint
+877,Basaveshwaranagar,12.986475,77.5385709,ibaco,12.98503332,77.53725509,Ice Cream Shop
+878,Basaveshwaranagar,12.986475,77.5385709,Real Cane,12.98618253,77.54134442,Juice Bar
+879,Basaveshwaranagar,12.986475,77.5385709,Guru Coffee Centre,12.98964294,77.53554432,Café
+880,Basaveshwaranagar,12.986475,77.5385709,Naturals,12.98543567,77.54295675,Market
+881,Industrial Estate Bangalore,12.9908787,77.70512051,Masala Chai,12.99201795,77.7029826,Café
+882,Industrial Estate Bangalore,12.9908787,77.70512051,Costa Coffee,12.99246535,77.70308982,Coffee Shop
+883,Industrial Estate Bangalore,12.9908787,77.70512051,Brigade Metropolis Jogging/Walking Track,12.9908277,77.70274322,Trail
+884,Industrial Estate Bangalore,12.9908787,77.70512051,Regent Club,12.98960586,77.70262023,Gym
+885,Industrial Estate Bangalore,12.9908787,77.70512051,Tandoor Box,12.992469,77.702759,BBQ Joint
+886,Industrial Estate Bangalore,12.9908787,77.70512051,ABB Cafeteria,12.99398494,77.70556633,Cafeteria
+887,"Jalahalli East,Jalahalli",13.0464531,77.5483803,hmt sports club,13.04616663,77.55020636,Pool
+888,"Jalahalli East,Jalahalli",13.0464531,77.5483803,Tasty Snacks,13.04878998,77.54886627,Bakery
+889,"Jalahalli East,Jalahalli",13.0464531,77.5483803,HMT Grounds,13.04605802,77.55096209,Playground
+890,"Jalahalli East,Jalahalli",13.0464531,77.5483803,Kadamba Gardenia,13.049061,77.54846,Vegetarian / Vegan Restaurant
+891,"Jalahalli East,Jalahalli",13.0464531,77.5483803,BEL grounds,13.04511336,77.55079975,Playground
+892,"Jalahalli East,Jalahalli",13.0464531,77.5483803,D Needs,13.04888339,77.54973054,Shopping Mall
+893,"Jalahalli East,Jalahalli",13.0464531,77.5483803,New Arya Bhavan,13.04908046,77.54729538,Indian Restaurant
+894,K. G. Road,12.8912195,77.6228124,Stop N Joy,12.89107691,77.6248979,Bakery
+895,K. G. Road,12.8912195,77.6228124,Apollo Pharmacy,12.8927,77.6199,Pharmacy
+896,K. G. Road,12.8912195,77.6228124,Adda,12.89455527,77.62006434,Indian Restaurant
+897,K. G. Road,12.8912195,77.6228124,Galaxy Paradise,12.89111046,77.6265482,Indie Movie Theater
+898,Kamakshipalya,12.9823617,77.5226376,The Zen Park,12.9829027,77.52186634,Park
+899,Kamakshipalya,12.9823617,77.5226376,Trilok Plaza,12.982917,77.522034,Plaza
+900,Magadi Road,12.9858515,77.486927,Govindaraju Catering Service,12.98628407,77.48914719,Restaurant
+901,Magadi Road,12.9858515,77.486927,State Bank of India ATM,12.98359,77.48628,ATM
+902,"Malleswaram,Malleswaram West",13.0163411,77.55866418,Durbar,13.01291017,77.55574024,Bar
+903,"Malleswaram,Malleswaram West",13.0163411,77.55866418,Cafe Coffee Day,13.01426447,77.55566986,Coffee Shop
+904,"Malleswaram,Malleswaram West",13.0163411,77.55866418,Metro Cash and Carry,13.01428342,77.55521411,Department Store
+905,"Malleswaram,Malleswaram West",13.0163411,77.55866418,Juice Center,13.01734126,77.56278992,Juice Bar
+906,Mathikere,13.0328884,77.557374,Cafe Coffee Day,13.0317174,77.55940592,Café
+907,Mathikere,13.0328884,77.557374,New Agarwal Bhavan,13.03053347,77.56019532,Diner
+908,Mathikere,13.0328884,77.557374,"Mathikere ,Bengaluru",13.0337449,77.55831754,Bus Station
+909,Mathikere,13.0328884,77.557374,Sri Ayyappa Bakery and Sweets,13.0339593,77.55692933,Bakery
+910,Mathikere,13.0328884,77.557374,Goli VadaPav,13.03409804,77.55784929,Burger Joint
+911,Mathikere,13.0328884,77.557374,international fitness centre,13.03482971,77.55785465,Gym
+912,Mathikere,13.0328884,77.557374,Food Campus,13.03189931,77.55925793,American Restaurant
+913,Mathikere,13.0328884,77.557374,Ammi_s Biryani,13.03420762,77.5606741,Indian Restaurant
+914,Mathikere,13.0328884,77.557374,Polar Bear,13.03455632,77.56099875,Ice Cream Shop
+915,Mathikere,13.0328884,77.557374,More Store,13.02920011,77.55915158,Market
+916,Msrit,13.0309553,77.56485594,Biriyani Paradise,13.03065244,77.56221611,Indian Restaurant
+917,Msrit,13.0309553,77.56485594,tasty hot,13.02976496,77.56191113,Fast Food Restaurant
+918,Msrit,13.0309553,77.56485594,Fish Corner,13.02885524,77.56183276,Fish & Chips Shop
+919,Msrit,13.0309553,77.56485594,Reliance Fresh Mart,13.02926898,77.56145954,Department Store
+920,Nagasandra Bangalore,13.0479497,77.5001349,Nagasandra Metro Station,13.04767203,77.50032866,Light Rail Station
+921,Nagasandra Bangalore,13.0479497,77.5001349,Shell,13.04652612,77.50227105,Gas Station
+922,Nagasandra Bangalore,13.0479497,77.5001349,Sobha Swiming Pool,13.04495796,77.50082149,Pool
+923,Nagasandra Bangalore,13.0479497,77.5001349,Sobha Skating Rink,13.0447,77.5002,Athletics & Sports
+924,Nagasandra Bangalore,13.0479497,77.5001349,Sobha Community Gym,13.04444572,77.49991894,Gym / Fitness Center
+925,Peenya Dasarahalli,13.0330189,77.533201,McDonald_s,13.03342315,77.53113789,Fast Food Restaurant
+926,Peenya Dasarahalli,13.0330189,77.533201,Cafe Coffee Day,13.0338002,77.53108207,Coffee Shop
+927,Peenya Dasarahalli,13.0330189,77.533201,Metro Peenya,13.032662,77.533424,Train Station
+928,Peenya Dasarahalli,13.0330189,77.533201,MORE Supermarket,13.03490122,77.53454215,Department Store
+929,Peenya Dasarahalli,13.0330189,77.533201,Masala mantra,13.03539732,77.53348398,Indian Restaurant
+930,Peenya I Stage,13.0314616,77.51362643,State Bank of India ATM,13.02809,77.51208,ATM
+931,Rajajinagar,12.9882338,77.554883,O.G. Variar & Sons,12.99157795,77.55456051,Bakery
+932,Rajajinagar,12.9882338,77.554883,New Shanti Sagar,12.985978,77.554241,Breakfast Spot
+933,Rajajinagar,12.9882338,77.554883,Guru Arts,12.98866521,77.55243434,Arts & Crafts Store
+934,Rajajinagar,12.9882338,77.554883,Mtr Moments,12.98515104,77.55416406,Breakfast Spot
+935,Rajajinagar,12.9882338,77.554883,Vodafone Store,12.98528061,77.55570904,Mobile Phone Shop
+936,Rajajinagar,12.9882338,77.554883,Sharma Chats,12.98569233,77.55280939,Chaat Place
+937,Rajajinagar,12.9882338,77.554883,Navrang Kabab Corner,12.99086232,77.55804326,Indian Restaurant
+938,Rajajinagar,12.9882338,77.554883,Yamaha-Bangalore Wheels,12.98892193,77.55929152,Motorcycle Shop
+939,Science Institute,13.0222347,77.56718325,Krishinton Suites Bangalore,13.02323691,77.56946177,Hotel
+940,Seshadripuram,12.9931876,77.5753419,Lakshmi Juice Centre,12.99053331,77.57456962,Juice Bar
+941,Seshadripuram,12.9931876,77.5753419,New Krishna Bhavan,12.99289779,77.57148884,Indian Restaurant
+942,Seshadripuram,12.9931876,77.5753419,Mavalli Tiffin Room (MTR),12.99369487,77.57142459,Karnataka Restaurant
+943,Seshadripuram,12.9931876,77.5753419,Chetty_s Corner,12.99246545,77.5784155,Food & Drink Shop
+944,Seshadripuram,12.9931876,77.5753419,Kalmane Koffees,12.9915423,77.57117512,Coffee Shop
+945,Seshadripuram,12.9931876,77.5753419,Mantri Square,12.99157597,77.5710854,Shopping Mall
+946,Seshadripuram,12.9931876,77.5753419,Krispy Kreme Doughnuts,12.99156244,77.57110304,Donut Shop
+947,Seshadripuram,12.9931876,77.5753419,Al Bek,12.99425869,77.57149065,Restaurant
+948,Seshadripuram,12.9931876,77.5753419,Starbucks,12.99158977,77.57113149,Coffee Shop
+949,Seshadripuram,12.9931876,77.5753419,Marks & Spencer,12.99153971,77.57122996,Clothing Store
+950,Seshadripuram,12.9931876,77.5753419,Halli Mane,12.99558506,77.57179602,Indian Restaurant
+951,Seshadripuram,12.9931876,77.5753419,Gelato Italiano,12.99156981,77.57113352,Dessert Shop
+952,Seshadripuram,12.9931876,77.5753419,Lifestyle,12.99151943,77.57112292,Clothing Store
+953,Seshadripuram,12.9931876,77.5753419,KFC,12.99154734,77.57116559,Fast Food Restaurant
+954,Seshadripuram,12.9931876,77.5753419,Gullu_s Chat,12.99243044,77.57836434,Chaat Place
+955,Seshadripuram,12.9931876,77.5753419,Shoppers Stop,12.99156396,77.57112247,Miscellaneous Shop
+956,Seshadripuram,12.9931876,77.5753419,Rasa,12.99421255,77.57131082,Bar
+957,Seshadripuram,12.9931876,77.5753419,Hallimane,12.99564566,77.57175093,Vegetarian / Vegan Restaurant
+958,Seshadripuram,12.9931876,77.5753419,Reliance Trends,12.99162175,77.57125187,Clothing Store
+959,Seshadripuram,12.9931876,77.5753419,McDonald_s,12.9916388,77.57132454,Fast Food Restaurant
+960,Seshadripuram,12.9931876,77.5753419,Spar Hypermarket,12.991498,77.57120209,Department Store
+961,Seshadripuram,12.9931876,77.5753419,Brand Factory,12.99707351,77.57418574,Clothing Store
+962,Sri Chowdeshwari,12.9420824,77.6021505,Cafe Coffee Day,12.94354088,77.60002859,Café
+963,Sri Chowdeshwari,12.9420824,77.6021505,Domino_s Pizza,12.942,77.598,Pizza Place
+964,Vidyaranyapura,13.0766407,77.5577315,Cafe Coffee Day,13.07534814,77.55792711,Coffee Shop
+965,Vidyaranyapura,13.0766407,77.5577315,Domino_s Pizza,13.07876083,77.55907287,Pizza Place
+966,Vidyaranyapura,13.0766407,77.5577315,Baskin Robbins,13.07491715,77.55775219,Ice Cream Shop
+967,Vidyaranyapura,13.0766407,77.5577315,Bejing Bites,13.075301,77.558041,Chinese Restaurant
+968,Vidyaranyapura,13.0766407,77.5577315,Amma_s Pastries,13.07884703,77.55915158,Dessert Shop
+969,Vidyaranyapura,13.0766407,77.5577315,Reliance Fresh,13.07927555,77.55921315,Department Store
+970,Vidyaranyapura,13.0766407,77.5577315,Adyar Ananda Bhavan,13.07971116,77.55919067,Indian Restaurant
+971,Vidyaranyapura,13.0766407,77.5577315,nti layout grounds,13.07304585,77.55570904,Basketball Court
+972,"Vijayanagar East,Vijayanagar Bangalore",12.9718886,77.54578884,D-Mart,12.97441194,77.54736815,Department Store
+973,"Vijayanagar East,Vijayanagar Bangalore",12.9718886,77.54578884,Chat street Vijayanagar,12.97307524,77.54372932,Deli / Bodega
+974,"Vijayanagar East,Vijayanagar Bangalore",12.9718886,77.54578884,Ruchi Bhel Centre,12.96925876,77.54436752,Indian Restaurant
+975,"Vijayanagar East,Vijayanagar Bangalore",12.9718886,77.54578884,Toll Gate,12.97500084,77.54861653,Toll Plaza
+976,"Vijayanagar East,Vijayanagar Bangalore",12.9718886,77.54578884,just bake,12.97369854,77.54189866,Dessert Shop
+977,Anekal,12.7086373,77.6993972,om maruthi Color Lab,12.70959949,77.70001984,Camera Store
+978,Anekal,12.7086373,77.6993972,Axis Bank ATM,12.70956039,77.69803619,ATM
+979,Bagalur Bangalore,13.1331868,77.6687093,mantapa,13.130103,77.67201,Memorial Site
+980,Bidaraguppe,12.8060574,77.7862873,Fabricspa,12.805736,77.78535,Dry Cleaner
+981,Chikkajala,13.1715801,77.6345704,Decathlon,13.1686974,77.6323889,Bike Shop
+982,Chikkajala,13.1715801,77.6345704,McDonald_s,13.17239446,77.63333935,Fast Food Restaurant
+983,Chikkajala,13.1715801,77.6345704,C M Bar,13.17106536,77.63272402,Bar
+984,Chikkajala,13.1715801,77.6345704,Cafe Noir,13.169316,77.6328,Café
+985,Chikkajala,13.1715801,77.6345704,Housefinch Residency,13.17376551,77.63092875,Hotel
+986,Dasanapura,13.0758896,77.4364795,New Agarwal Bhavan,13.073158,77.43961,North Indian Restaurant
+987,Doddajala,13.1767348,77.6520502,Hanuman temple,13.179947,77.648834,Mountain
+988,Hunasamaranahalli,13.1440103,77.6191241,cafe coffee day,13.145366,77.61790617,Coffee Shop
+989,Hunasamaranahalli,13.1440103,77.6191241,Parika,13.14512423,77.61802792,Indian Restaurant
+990,Hunasamaranahalli,13.1440103,77.6191241,Hunasamaranahalli Lake,13.14402236,77.61766427,Lake
+991,Hunasamaranahalli,13.1440103,77.6191241,Bhagini Grand,13.1458329,77.61819576,Indian Restaurant
+992,Kadabagere,12.9889098,77.4492453,Brahmashree upahara,12.989325,77.449905,Indian Restaurant
+993,Kannur,13.103799,77.6016167,Gokul Vegetarian,13.10453429,77.60015169,Vegetarian / Vegan Restaurant
+994,Kannur,13.103799,77.6016167,"Udupi Grand, Kogilu Cross",13.10345499,77.60062731,Fast Food Restaurant
+995,Kannur,13.103799,77.6016167,Yelahanka lake,13.10372901,77.60220522,Lake
+996,Kannur,13.103799,77.6016167,Gobi Adda,13.10373236,77.60240106,Food Truck
+997,Neriga,12.9117656,77.7765251,Shristhi Village,12.913261,77.773636,Resort
+998,Sarjapura,12.8600866,77.7861352,sarjapur 1. Wipro cafeteria,12.85827451,77.78309278,Snack Place
